@@ -1,0 +1,39 @@
+Type: Book
+Package: CN4P
+Title: CN4P
+Version: 1.0.1
+Imports:
+    bookdown,
+    conflicted,
+    devtools,
+    dichromat,
+    DT,
+    fs,
+    gapminder,
+    gender,
+    genderdata,
+    geonames,
+    glue,
+    gridExtra,
+    gt,
+    htmltools,
+    httr,
+    knitr,
+    RColorBrewer,
+    rebird,
+    rmarkdown,
+    rplos,
+    rvest,
+    testthat,
+    tidyverse,
+    usethis,
+    viridis,
+    xfun,
+    xml2
+Suggests: 
+    reprex
+Remotes: 
+    ropensci/genderdata,
+    rstudio/gt,
+    tidyverse/reprex
+Encoding: UTF-8
