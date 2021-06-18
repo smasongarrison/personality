@@ -24,7 +24,6 @@ This class leans heavily on other peoples' materials and ideas. I have done my b
 ## Additional Attributions  {-}
 
 
-* [EMILY SUZANNE CLARK](https://esclark.hcommons.org/the-unessay/)'s Rubric for Unessays
 
 # License {-#license}
 
