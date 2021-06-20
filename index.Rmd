@@ -6,7 +6,7 @@ author:
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
 site: bookdown::bookdown_site
-url: 'https\://github.com/smasongarrison/personality'
+url: 'https://smasongarrison.github.io/personality/'
 github-repo: smasongarrison/personality
 twitter-handle: smasongarrison
 cover-image: assets/logo.png
@@ -35,10 +35,10 @@ library(readr)
 
 ```
 
-Welcome to class! This website is designed to accompany Mason Garrison's Introduction to Personality Psychology (CN4P). CN4P is a undergraduate-level psychology course at Wake Forest University. This class assumes zero knowledge of programming, computer science, linear algebra, probability, or really anything fancy. I encourage anyone who is quant-curious to work their way through these course notes. The course notes include lectures, worked examples, readings, activities, and labs. You can find the current version of the course syllabus along with all of the other syllabi for my classes[here]( https://github.com/smasongarrison/Syllabi). All the embedded lecture videos can be found on a [youtube playlist][ds4p-pl-all]. 
+Welcome to class! This website is designed to accompany Mason Garrison's Introduction to Personality Psychology. This class is a undergraduate-level psychology course at Wake Forest University. I encourage anyone who is personality-curious to work their way through these course notes. The course notes include lectures, worked examples, readings, activities, and labs. You can find the current version of the course syllabus along with all of the other syllabi for my classes [here]( https://github.com/smasongarrison/Syllabi). All the embedded lecture videos can be found on a [youtube playlist][ds4p-pl-all]. 
 
 ```{r,echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=nYYJmmcgzr8") %>%
+embed_url("https://www.youtube.com/watch?v=ESGnk90FHr4") %>%
   use_align("center")
 ```
 

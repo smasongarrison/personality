@@ -15,7 +15,7 @@ library(knitr)
 
 
 # Attribution {-}
-This class leans heavily on other peoples' materials and ideas. I have done my best to document the origin of the materials and ideas. In particular, I have noted those people whose work has been a major contribution as well as those who have additional contributions. You can see specific changes by examining the [edit history on the git repo](https://github.com/DataScience4Psych/DataScience4Psych/commits/main)
+This class leans heavily on other peoples' materials and ideas. I have done my best to document the origin of the materials and ideas. In particular, I have noted those people whose work has been a major contribution as well as those who have additional contributions. You can see specific changes by examining the [edit history on the git repo](https://github.com/smasongarrison/personality/commits/main)
 
 ## Major Attributions  {-}
 
@@ -86,7 +86,7 @@ library(gt)
 library(tidyverse)
 
 
-make_full = function(myurl,gituser="datascience4psych",myrepo="DataScience4Psych") {
+make_full = function(myurl,gituser="smasongarrison",myrepo="personality") {
   paste0('https://',gituser,'.github.io/',myrepo,'/',myurl)
 }
 make_hyperlink = function(myurl,mytext=myurl) {
