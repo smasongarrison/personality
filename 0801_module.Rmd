@@ -1,0 +1,93 @@
+# (PART) Module 08 {-}
+
+```{r include = FALSE}
+source("common.R")
+
+# install.packages("devtools")
+
+if (!require("tweetrmd"))  devtools::install_github("gadenbuie/tweetrmd")
+library(tweetrmd) #... embedding tweets
+class_urls <- read.csv("./data/class_urls.csv")
+```
+
+```{r links, child="links.md"}
+```
+
+# Welcome to Anatomy and Physiology of Personality
+
+This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). Most of the slides used to make the videos in this module can be found in the [slides repo][slides]. 
+
+## Learning Goals
+
+By the end of this module, you should be able to achieve all the learning goals outlined below.
+
+*  Understand how psychologists and biologists tried to explain the mind-body problem over the years.
+*  Define and relate the parts of the brain to their respective Big Five personality trait and emotional or behavioral outcome.
+*  Define and relate neural chemicals (i.e., neurotransmitters and hormones) to their respective Big Five personality trait and emotional or behavioral outcome.
+*  Recall the different parts of the neural pathways and how the brain’s chemical impulses (neurotransmitters and hormones) are directed throughout the body.
+*  Understand the bidirectional cause-effect relationship between the brain, its neural chemicals, and behavior.
+*  Understand the various ways to measure and assess brain activity and function in terms of what they do and why/how they were developed.
+*  Recall the specific scientific outcomes for each brain activity measurement and assessment procedure (including psychosurgeries) in terms of the general benefits of each and what we learn from their results.
+*  Recall the disadvantages, drawbacks, and critiques of each of the brain activity measurement and assessment procedures (including psychosurgeries).
+*  Link parts of the brain with certain neurotransmitters and hormones.
+*  Understand the importance of studying the brain in terms of its systems.
+*  Apply behavioral outcomes of brain damage to explain the biological basis for personality and emotion.
+ 
+
+
+## Module Materials
+
+### Explore
+* Readings
+	* Located on Canvas
+	* Chapter 8 from the Personality Puzzle
+* Videos
+  * Located in the subchapters of this module
+* Slidedecks
+	* Located on Canvas
+	
+### Engage
+* Activities
+	* Located on Canvas
+	
+### Evaluate
+* Quiz
+	* Located on Canvas
+
+
+
+### Estimated Video Length
+
+<!--https://www.youtube.com/playlist?list=PLKrrdtYgOUYao_7t5ycK4KDXNKaY-ECup & https://ytplaylist-len.herokuapp.com/ -->
+
+
+
+# What is Module?
+
+## Video 1
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+  use_align("center")
+```
+
+
+## Video 2
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+  use_align("center")
+```
+
+## Video 3
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+  use_align("center")
+```

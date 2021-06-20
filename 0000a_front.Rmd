@@ -20,6 +20,8 @@ This class leans heavily on other peoples' materials and ideas. I have done my b
 ## Major Attributions  {-}
 
 * Jenny Bryan's ([jennybryan.org](https://jennybryan.org)) [STAT 545][stat-545]
+* [David Funder's Personality Puzzle](https://wwnorton.com/books/The-Personality-Puzzle/)
+* Turkheimer, E. (2021). The nature-nurture question. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/tvz92edh
 
 ## Additional Attributions  {-}
 

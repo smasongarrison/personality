@@ -1,0 +1,92 @@
+# (PART) Module 04 {-}
+
+```{r include = FALSE}
+source("common.R")
+
+# install.packages("devtools")
+
+if (!require("tweetrmd"))  devtools::install_github("gadenbuie/tweetrmd")
+library(tweetrmd) #... embedding tweets
+class_urls <- read.csv("./data/class_urls.csv")
+```
+
+```{r links, child="links.md"}
+```
+
+# Welcome to Persons and Situations
+
+This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). Most of the slides used to make the videos in this module can be found in the [slides repo][slides]. 
+
+## Learning Goals
+
+By the end of this module, you should be able to achieve all the learning goals outlined below.
+
+* Recognize features of the trait approach.
+* Understand and apply the concepts of cross-situational consistency and stability.
+* Recall the proponents (and their arguments) in the person-situation debate.
+* Explain the situationist position.
+* Understand and give evidence for the pro-personality response.
+* Distinguish the situationist critique from the personality response.
+* Use correlational effect sizes to compare the predictive power of person and situation.
+* Understand that people are both consistent and change.
+* Recognize different life outcomes that are associated with different traits.
+* Identify and generate examples of the principle of interactionism.
+* Evaluate how values might influence people to support a situationist or pro-personality position.
+
+
+## Module Materials
+
+### Explore
+* Readings
+	* Chapter 4 from the Personality Puzzle
+	* Located on Canvas
+* Videos
+  * Located in the subchapters of this module
+* Slidedecks
+	* Located on Canvas
+	
+### Engage
+* Activities
+	* Located on Canvas
+	
+### Evaluate
+* Quiz
+	* Located on Canvas
+
+
+
+### Estimated Video Length
+
+<!--https://www.youtube.com/playlist?list=PLKrrdtYgOUYao_7t5ycK4KDXNKaY-ECup & https://ytplaylist-len.herokuapp.com/ -->
+
+
+
+# What is Module?
+
+## Video 1
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+  use_align("center")
+```
+
+
+## Video 2
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+  use_align("center")
+```
+
+## Video 3
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+  use_align("center")
+```

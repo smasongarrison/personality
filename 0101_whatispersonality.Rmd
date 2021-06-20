@@ -15,7 +15,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Personality
 
-This module is designed to introduce you to our course in Personality Psychology. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). Most of the slides used to make the videos in this module can be found in the [slides repo][slides]. 
+This module introduces you to our course in Personality Psychology. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). Most of the slides used to make the videos in this module can be found in the [slides repo][slides]. 
 
 ## Learning Goals
 
@@ -31,7 +31,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 ### Explore
 * Readings
-  * 
+  * Chapter 1 from the Personality Puzzle
 * Videos
   * Located in the subchapters of this module
 * Slidedecks

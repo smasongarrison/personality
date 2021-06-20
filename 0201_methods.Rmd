@@ -21,15 +21,28 @@ This module is designed to introduce you to methods of Personality research. Ple
 
 By the end of this module, you should be able to achieve all the learning goals outlined below.
 
-* 
+* Understand that personality is not directly observable, and data are clues.
+* Recognize and classify instances of B, L, I, and S data.
+* Define and distinguish B, L, I, and S data.
+* Identify strengths and weaknesses of B, L, I, and S data.
+* Understand new concepts and terminology associated with different types of data.
+* Differentiate the goals of scientific training from technical training.
+* Define and distinguish reliability and validity.
+* Give examples of techniques researchers can use to improve measurement quality.
+* Identify a variety of issues related to generalizability.
+* Compare and contrast different types of research designs.
+
 
 ## Module Materials
 
 ### Explore
 * Readings
+	* Chapter 2 from the Personality Puzzle
+	* Located on Canvas
 * Videos
   * Located in the subchapters of this module
 * Slidedecks
+	* Located on Canvas
 ### Engage
 * Activities
 	* Located on Canvas
