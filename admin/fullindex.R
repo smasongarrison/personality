@@ -27,7 +27,7 @@ df <- data.frame(
 
 df$title[df$link=="https://datascience4psych.github.io/slides/d13_goodviz/d13b_moreggplot.html"]<-"d13b_moreggplot"
 
-write_csv(df,"data/ds4p_urls.csv")
+write_csv(df,"data/class_urls.csv")
 
 
 

@@ -4,4 +4,4 @@
 #"https://www.youtube.com/watch?v=PdQmEPC_Nvc",
 #"https://www.youtube.com/watch?v=nYYJmmcgzr8"#,
 #)
-#write_csv(as.data.frame(funyoutube),"data/ds4p_funyoutube.csv")
+#write_csv(as.data.frame(funyoutube),"data/funyoutube.csv")

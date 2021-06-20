@@ -7,7 +7,7 @@ source("common.R")
 
 if (!require("tweetrmd"))  devtools::install_github("gadenbuie/tweetrmd")
 library(tweetrmd) #... embedding tweets
-ds4p_urls <- read.csv("./data/ds4p_urls.csv")
+class_urls <- read.csv("./data/class_urls.csv")
 ```
 
 ```{r links, child="links.md"}
