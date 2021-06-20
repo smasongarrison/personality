@@ -1,0 +1,98 @@
+# (PART) Module 01 {-}
+
+```{r include = FALSE}
+source("common.R")
+
+# install.packages("devtools")
+
+if (!require("tweetrmd"))  devtools::install_github("gadenbuie/tweetrmd")
+library(tweetrmd) #... embedding tweets
+ds4p_urls <- read.csv("./data/ds4p_urls.csv")
+```
+
+```{r links, child="links.md"}
+```
+
+# Welcome to Personality
+
+This module is designed to introduce you to our course in Personality Psychology. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here][pl-01]. Most of the slides used to make the videos in this module can be found in the [slides repo][slides]. 
+
+## Learning Goals
+
+By the end of this module, you should be able to achieve all the learning goals outlined below.
+
+* Summarize the main objectives of personality psychology.
+* Understand the concept of a basic approach (or paradigm).
+* Define and distinguish between the major basic approaches to personality.
+* Explain Funder's first law—that great strengths are usually great weaknesses and vice versa.
+* Evaluate the concept of the One Big Theory (OBT) and explain why separate approaches to personality are needed.
+
+## Module Materials
+
+### Explore
+* Readings
+  * 
+* Videos
+  * Located in the subchapters of this module
+* Slidedecks
+	* Located on Canvas
+	
+### Engage
+* Activities
+	* [Big Five Inventory-2 (BFI2)](https://projects.fivethirtyeight.com/personality-quiz/)
+
+### Evaluate
+* Quiz
+	* Located on Canvas
+
+
+
+### Estimated Video Length
+
+<!--https://www.youtube.com/playlist?list=PLKrrdtYgOUYao_7t5ycK4KDXNKaY-ECup & https://ytplaylist-len.herokuapp.com/ -->
+
+
+
+# What is Personality?
+
+## What is Personality? (01.01)
+<!-- original version -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=0-UuQCMHmkk") %>%
+  use_align("center")
+```
+
+Here is the link to the 538 version of the [Big Five Inventory-2 (BFI2)](https://projects.fivethirtyeight.com/personality-quiz/). It is 30 items (questions). I encourage you to read the accompanying article by [Maggie Koerth](https://twitter.com/maggiekb1) (2018): ["Most Personality Quizzes Are Junk Science. I Found One That Isn't"](https://fivethirtyeight.com/features/most-personality-quizzes-are-junk-science-i-found-one-that-isnt/).
+
+## What do personality psychologists do? (01.02)
+<!-- original version -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=q4byLfNoCLw") %>%
+  use_align("center")
+```
+
+## Does personality really matter? (01.03)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+  use_align("center")
+```
+
+## How do we define personality? (01.04)
+<!-- updated -->
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=olYigoNfBto") %>%
+  use_align("center")
+```
+
+## Personality Paradigms (01.05)
+<!-- updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=1TSq1LaAIdA") %>%
+  use_align("center")
+```

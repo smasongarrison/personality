@@ -1,0 +1,110 @@
+# (PART) Module 02 {-}
+
+```{r include = FALSE}
+source("common.R")
+
+# install.packages("devtools")
+
+if (!require("tweetrmd"))  devtools::install_github("gadenbuie/tweetrmd")
+library(tweetrmd) #... embedding tweets
+ds4p_urls <- read.csv("./data/ds4p_urls.csv")
+```
+
+```{r links, child="links.md"}
+```
+
+# Welcome to Personality Methods
+
+This module is designed to introduce you to methods of Personality research. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here][pl-02]. Most of the slides used to make the videos in this module can be found in the [slides repo][slides]. 
+
+## Learning Goals
+
+By the end of this module, you should be able to achieve all the learning goals outlined below.
+
+* 
+
+## Module Materials
+
+### Explore
+* Readings
+* Videos
+  * Located in the subchapters of this module
+* Slidedecks
+### Engage
+* Activities
+	* Located on Canvas
+
+### Evaluate
+* Activities
+	* Located on Canvas
+
+
+
+### Estimated Video Length
+
+<!--https://www.youtube.com/playlist?list=PLKrrdtYgOUYao_7t5ycK4KDXNKaY-ECup & https://ytplaylist-len.herokuapp.com/ -->
+
+
+
+# Personality Research Methods
+
+## Roadmap for personality research (02.01)
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=02nDf5z8a_M") %>%
+  use_align("center")
+```
+
+## Self and Informant Data (02.02)
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=HS5L3bubus8") %>%
+  use_align("center")
+```
+
+## Life Outcome and Behavioral Data (02.03)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=va0qMg6TTA4") %>%
+  use_align("center")
+```
+
+
+## Data Quality (02.04)
+<!-- not yet updated -->
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=olYigoNfBto") %>%
+  use_align("center")
+```
+
+## Introducing Validity and What's a construct? (02.05)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=MgTZUP7Dzlk") %>%
+  use_align("center")
+```
+
+## Generalizability (02.06)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=ej8836XtNE") %>%
+  use_align("center")
+```
+
+## Generalizability in Action and Research Designs (02.07)
+
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=W9a71BMEajs") %>%
+  use_align("center")
+```
