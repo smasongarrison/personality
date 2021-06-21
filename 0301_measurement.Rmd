@@ -55,7 +55,8 @@ By the end of this module, you should be able to achieve all the learning goals 
 * Quiz
 	* Located on Canvas
 
-
+### Extras
+	* [My Psychological Testing Course](https://r-computing-lab.github.io/psychtesting/index.html)
 
 ### Estimated Video Length
 
