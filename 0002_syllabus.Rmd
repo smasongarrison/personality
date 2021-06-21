@@ -8,7 +8,7 @@ source("common.R")
 ```
 
 <!-- To Do: find a way to embed a pdf in rmarkdown -->
-You can find the [full syllabus](https://github.com/smasongarrison/Syllabi/blob/master/syllabus_datascience.pdf) on my [syllabus git repo](https://github.com/smasongarrison/Syllabi). 
+You can find the full syllabus on my [syllabus git repo](https://github.com/smasongarrison/Syllabi). 
 
 
 
@@ -22,7 +22,8 @@ This class requires that you have a laptop that can run R.
 
 The text is intended to supplement the videos, lecture notes, tutorials, activities, and labs. You probably need to consume all of them in order to be successful in this class.
 
-* [R for Data Science text][r4ds]
+* Funder's Personality Puzzle 8th Edition
+*  [Ebook version](https://digital.wwnorton.com/75895)
 
 ### Software
 
