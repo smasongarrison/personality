@@ -31,7 +31,9 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 ### Explore
 * Readings
-  * Chapter 1 from the Personality Puzzle
+  * Chapter 1 from the Personality Puzzle "THE STUDY OF THE PERSON" 
+	  *  [Norton Ebook Link](https://digital.wwnorton.com/75895/r/goto/cfi/22!/4) 
+	  *  8th edition starts on page 2
 * Videos
   * Located in the subchapters of this module
 * Slidedecks
