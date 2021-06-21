@@ -43,6 +43,7 @@ By the end of this module, you should be able to achieve all the learning goals 
   * Located in the subchapters of this module
 * Slidedecks
 	* Located on Canvas
+
 ### Engage
 * Activities
 	* Located on Canvas
@@ -90,7 +91,7 @@ embed_url("https://www.youtube.com/watch?v=va0qMg6TTA4") %>%
 ## Data Quality (02.04)
 <!-- not yet updated -->
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=olYigoNfBto") %>%
+embed_url("https://www.youtube.com/watch?v=Py-3LjJYzKk") %>%
   use_align("center")
 ```
 
@@ -108,7 +109,7 @@ embed_url("https://www.youtube.com/watch?v=MgTZUP7Dzlk") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=ej8836XtNE") %>%
+embed_url("https://www.youtube.com/watch?v=ej8836XtNEE") %>%
   use_align("center")
 ```
 
