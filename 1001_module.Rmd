@@ -88,3 +88,7 @@ embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
 embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
   use_align("center")
 ```
+
+```{r, echo=FALSE}
+include_tweet("https://twitter.com/AdamRutherford/status/1406575489943326721")
+```	
