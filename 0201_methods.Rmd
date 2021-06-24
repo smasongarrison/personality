@@ -104,16 +104,16 @@ embed_url("https://www.youtube.com/watch?v=MgTZUP7Dzlk") %>%
   use_align("center")
 ```
 
-## Generalizability (02.06)
+## Causal Inference and Generalizability in Action (02.06)
 
-<!-- not yet updated -->
+<!-- testing 08.02/personality 02.06 -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=ej8836XtNEE") %>%
+embed_url("https://www.youtube.com/watch?v=dfNKuqaL-uU") %>%
   use_align("center")
 ```
 
-## Generalizability in Action and Research Designs (02.07)
+## Research Designs (02.07)
 
 
 <!-- not yet updated -->
