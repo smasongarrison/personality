@@ -77,10 +77,10 @@ embed_url("https://www.youtube.com/watch?v=q4byLfNoCLw") %>%
 
 ## Does personality really matter? (01.03)
 
-<!-- not yet updated -->
+<!--updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://www.youtube.com/watch?v=RFCl_aPcPHA") %>%
   use_align("center")
 ```
 
