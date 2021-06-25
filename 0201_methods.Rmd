@@ -56,17 +56,17 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 ### Estimated Video Length
 
-<!--https://www.youtube.com/playlist?list=PLKrrdtYgOUYao_7t5ycK4KDXNKaY-ECup & https://ytplaylist-len.herokuapp.com/ -->
+<!-- & https://ytplaylist-len.herokuapp.com/ -->
 
 
 
 # Personality Research Methods
 
 ## Roadmap for personality research (02.01)
-<!-- not yet updated -->
+<!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=02nDf5z8a_M") %>%
+embed_url("https://www.youtube.com/watch?v=7n-TDdh6lK4") %>%
   use_align("center")
 ```
 
