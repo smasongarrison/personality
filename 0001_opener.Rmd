@@ -14,8 +14,10 @@ library(DT)
 ```{r links, child="links.md"}
 ```
 
+This overview is designed to orient you to the class as well as show you the rationale underlying them. Every module will follow a similar structure. First, I'll provide an overview of the topic and provide actionable learning goals. Please watch the videos from this [playlist][ds4p-pl-00] and work your way through the notes. Although the module-level playlists are embedded in the course, you can find the full-course video playlist [here][ds4p-pl-all]. In addition, you can find the slides for this module [here](https://github.com/DataScience4Psych/DataScience4Psych/blob/main/admin/pdfs/001_Introduction.pdf).
 
-This overview is designed to orient you to the class. Please watch the videos from this [playlist][ds4p-pl-00] and work your way through the notes. Although the module-level playlists are embedded in the course, you can find the full-course video playlist [here][ds4p-pl-all]. In addition, you can find the slides for this module [here](https://github.com/DataScience4Psych/DataScience4Psych/blob/main/admin/pdfs/001_Introduction.pdf). Currently, there are 7 videos in this playlist. The average video length is  12 minutes, 27 seconds. The total length of the playlist is 1 hour, 27 minutes, 10 seconds.
+
+By the end of each module, you should be able to achieve all the learning goals outlined below. For this module those goals are...
 
 <!--  https://ytplaylist-len.herokuapp.com/ -->
 
@@ -26,28 +28,34 @@ embed_url("https://www.youtube.com/watch?v=HU39nOxcJYg&list=PLKrrdtYgOUYaEAnJX20
   use_align("center")
 ```
 
-Data Science for Psychologists (CN4P) introduces on the principles of data science, including:
 
-* data wrangling, 
-* modeling, 
-* visualization, and 
-* communication. 
+## Learning Goals for this Module (Chapter 0)
+* Explain the structure of the course
+* Understand the rationale underlying the structure of the course
+* Explain the expectations for the blended and online sections
 
-In this class, we link those principles to psychological methods and open science practices by emphasizing exploratory analyses and description, rather than confirmatory analyses and prediction. Through the semester we will work our way thru [Wickham and Grolemund's R for Data Science text](http://r4ds.had.co.nz/) and develop proficiency with [tidyverse](https://www.tidyverse.org/). This class emphasizes replication and reproducibility. CN4P is a practical skilled-based class and should be useful to students aiming for academia as well as those interested in industry. Applications of these methods can be applied to a full range of psychological areas, including perception (e.g, eye-tracking data), neuroscience (e.g., visualizing neural networks), and individual differences (e.g., valence analysis).
+## To-Do List
 
-## Big Ideas
-This class covers the following broad five areas:
+I provide a list of tasks you'll need to do to complete the module. I provide this list to give the class structure. These tasks are broken down into two stages: explore and engage. These stages are designed to be sequential. Complete the explore tasks first. Second, complete the engage tasks. For each stage, I will explicitly indicate whether specific tasks are required or merely, recommended.
 
-* Reproducibility;
-* Replication;
-* Robust Methods;
-* Resplendent Visualizations; and
-* R Programming.
+The exploring portion of the class introduces you to the content of the module. It will consist of reading texts and viewing videos. Relative to the other two portions of the module, its more passive.
+
+The engagement portion of the class facilitates you engaging with the material, interacting with the other members of the learning community. Typically, students in the online section, will complete two engagement activities, while the blended section will complete one engagement activity in addition to attending the weekly in-class session. Most of the time, I'll provide multiple choices for the engagement portion of the module.
+
+In order to successfully complete Module 0, please do the following:
+
+* Explore:
+  * Skim: the preface of your textbook (Optional)
+  * View: the embedded videos connected to the learning goals.
+* Engage:
+  * Create: a brief video introducing yourself and post it on the discussion board.
+  * Complete: the following survey.
+
 
 
 ## Course Modality
 
-This class is a blended class. The online portions are asynchronous, and often contain pre-recorded videos. I've created a video highlighting how to be a successful asynchronous learner. 
+This class is a flipped class. The online portions are asynchronous, and often contain pre-recorded videos. I've created a video highlighting how to be a successful asynchronous learner. 
 
 
 ```{r, echo=FALSE}
