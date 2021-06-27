@@ -1,8 +1,14 @@
 # Class Description:
 
-Personality Psychology introduces on the principles of data science, including data wrangling, modeling, visualization, and communication. In this class, we link those principles to psychological methods and open science practices by emphasizing exploratory analyses and description, rather than confirmatory analyses and prediction. We'll work our way thru Wickham and Grolemund's R for Data Science text (http://r4ds.had.co.nz/) and develop expertise in tidyverse (https://www.tidyverse.org/). This class emphasizes replication and reproducibility. DSP is a practical skilled-based class and should be useful to students aiming for academia as well as those interested in industry. Applications of these methods can be applied to a full range of psychological areas, including perception (e.g, eye-tracking data), neuroscience (e.g., visualizing neural networks), and individual differences (e.g., valence analysis).
+This class provides a survey of theory and research on the structure and function of human personality, with attention to the relationship to cognition, emotion, motivation, and behavior. It requires that you've already taken PSY 151 . In addition, we will discuss other individual differences, such as intelligence.
 
-Please look at the course website for [specifics](https://datascience4psych.github.io/DataScience4Psych)
+Broad goals for the course: 
+
++ The first is for you to understand what personality psychologists think. We will cover classic and current theories, research, and applications of Personality psychology.
++ The second is for you to learn how personality psychologists study their field scientifically. We will discuss the procedures used to test theories and to study issues related to personality.
++ The third is to (hopefully) recognize some relevance of personality psychology for your personal and/or professional life.
+
+Please look at the course website for [specifics](https://smasongarrison.github.io/personality)
 
 # FAQ
 
@@ -10,7 +16,7 @@ Please look at the course website for [specifics](https://datascience4psych.gith
 
 Please note that this is a work in progress, with new material being added every week. 
 
-If you just want to read the lecture slides or HTML notebooks in your browser, then you should simply head over to the [course website](https://datascience4psych.github.io/DataScience4Psych). Remember to check back in regularly to get any updates. Or, you can watch or star the repo to get notified automatically.
+If you just want to read the lecture slides or HTML notebooks in your browser, then you should simply head over to the [course website](https://smasongarrison.github.io/personality). Remember to check back in regularly to get any updates. Or, you can watch or star the repo to get notified automatically.
 
 
 
@@ -20,9 +26,9 @@ Please [open a new issue](https://help.github.com/articles/creating-an-issue/). 
 
 # Credits
 
-[See the attribution page for specifics]( https://datascience4psych.github.io/DataScience4Psych/front-matter.html#attribution)
+[See the attribution page for specifics]( https://smasongarrison.github.io/personality/front-matter.html#attribution)
 
 
 # License
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. More details can be found [here](https://datascience4psych.github.io/DataScience4Psych/license.html).
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. More details can be found [here](https://smasongarrison.github.io/personality/license.html).
