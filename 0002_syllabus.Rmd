@@ -9,29 +9,3 @@ source("common.R")
 
 <!-- To Do: find a way to embed a pdf in rmarkdown -->
 You can find the syllabus on my [syllabus website](https://smasongarrison.github.io/syllabi/) and the entire [syllabus git repo](https://github.com/smasongarrison/syllabi)
-
-# How are these modules going to work? {-}
-
-This module serves two goals. It will introduce you to the structure of the course as well as show you the rationale underlying them. Every module will follow a similar structure. First, I'll provide an overview of the topic and provide actionable learning goals. By the end of each module, you should be able to achieve all the learning goals outlined below.
-
-## Learning Goals for this Module (Chapter 0)
-* Explain the structure of the course
-* Understand the rationale underlying the structure of the course
-* Explain the expectations for the blended and online sections
-
-## To-Do List
-
-I provide a list of tasks you'll need to do to complete the module. I provide this list to give the class structure. These tasks are broken down into two stages: explore and engage. These stages are designed to be sequential. Complete the explore tasks first. Second, complete the engage tasks. For each stage, I will explicitly indicate whether specific tasks are required or merely, recommended.
-
-The exploring portion of the class introduces you to the content of the module. It will consist of reading texts and viewing videos. Relative to the other two portions of the module, its more passive.
-
-The engagement portion of the class facilitates you engaging with the material, interacting with the other members of the learning community. Typically, students in the online section, will complete two engagement activities, while the blended section will complete one engagement activity in addition to attending the weekly in-class session. Most of the time, I'll provide multiple choices for the engagement portion of the module.
-
-In order to successfully complete Module 0, please do the following:
-
-* Explore:
-  * Skim: the preface of your textbook (Optional)
-  * View: the embedded videos connected to the learning goals.
-* Engage:
-  * Create: a brief video introducing yourself and post it on the discussion board.
-  * Complete: the following survey.
