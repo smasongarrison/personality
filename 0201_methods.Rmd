@@ -66,7 +66,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=7n-TDdh6lK4") %>%
+embed_url("https://www.youtube.com/watch?v=XN1GeS7FSio") %>%
   use_align("center")
 ```
 
