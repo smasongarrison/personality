@@ -40,11 +40,11 @@ By the end of this module, you should be able to achieve all the learning goals 
 * Videos
   * Located in the subchapters of this module
 * Slidedecks
-	* Located on Canvas
+  * Located on Canvas
 	
 ### Engage
 * Activities
-	* [Big Five Inventory-2 (BFI2)](https://projects.fivethirtyeight.com/personality-quiz/)
+	* [Big Five Inventory-2 (BFI-2)](https://projects.fivethirtyeight.com/personality-quiz/)
 
 ### Evaluate
 * Quiz
@@ -68,7 +68,6 @@ embed_url("https://www.youtube.com/watch?v=0-UuQCMHmkk") %>%
   use_align("center")
 ```
 
-Here is the link to the 538 version of the [Big Five Inventory-2 (BFI2)](https://projects.fivethirtyeight.com/personality-quiz/). It is 30 items (questions). I encourage you to read the accompanying article by [Maggie Koerth](https://twitter.com/maggiekb1) (2018): ["Most Personality Quizzes Are Junk Science. I Found One That Isn't"](https://fivethirtyeight.com/features/most-personality-quizzes-are-junk-science-i-found-one-that-isnt/).
 
 ## What do personality psychologists do? (01.02)
 <!-- original version -->
@@ -87,6 +86,11 @@ embed_url("https://www.youtube.com/watch?v=RFCl_aPcPHA") %>%
   use_align("center")
 ```
 
+
+Here's the link to the [Meta Milgram Study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093927)
+
+Haslam N, Loughnan S, Perry G (2014) Meta-Milgram: An Empirical Synthesis of the Obedience Experiments. PLoS ONE 9(4): e93927. https://doi.org/10.1371/journal.pone.0093927
+
 ## How do we define personality? (01.04)
 <!-- updated -->
 ```{r, echo=FALSE}
@@ -101,3 +105,21 @@ embed_url("https://www.youtube.com/watch?v=olYigoNfBto") %>%
 embed_url("https://www.youtube.com/watch?v=1TSq1LaAIdA") %>%
   use_align("center")
 ```
+
+# What's My Personality (Activity)
+
+
+## Big Five Inventory
+Here is the link to the 538 version of the [Big Five Inventory-2 (BFI2)](https://projects.fivethirtyeight.com/personality-quiz/). It is 30 items (questions). I encourage you to read the accompanying article by [Maggie Koerth](https://twitter.com/maggiekb1) (2018): ["Most Personality Quizzes Are Junk Science. I Found One That Isn't"](https://fivethirtyeight.com/features/most-personality-quizzes-are-junk-science-i-found-one-that-isnt/).
+
+## SAPA Project
+
+I (Mason) think that this test battery is the best and most comprehensive personality (and individual differences) questionnaire out there. Get started right [here](https://www.sapa-project.org/survey/start.php)
+
+Here's the summary straight from the test makers themselves... (source: https://www.sapa-project.org/)
+
+"The SAPA Project is a [collaborative research](https://www.sapa-project.org/info/faq.html#collaboratory) tool for studying patterns of human behavior. Our goal is to find patterns among the vast number of ways that people differ from one another in terms of their [thoughts, feelings](https://www.sapa-project.org/info/personality.html#temperament), [interests](https://www.sapa-project.org/info/personality.html#interests), [abilities](https://www.sapa-project.org/info/personality.html#ability), desires, values, and preferences. Personality psychologists have been theorizing about these [domains](https://www.sapa-project.org/info/personality.html#personality) of differences for decades but the data you provide will help us to empirically integrate these domains into a single comprehensive framework.
+
+The test on this site will give you feedback about your personality on two levels. First, you will receive scores on the 27 personality dimensions that were identified through statistical analyses of 300,000 SAPA participants. Then we will also give you scores on the so-called Big Five factors of personality plus an overall cognition score. Most people spend 15 to 25 minutes on the full test (you can quit in the middle if you want but the feedback won't be as accurate). The test is **entirely free** (absolutely no strings attached) and **completely anonymous** (no cookies, no tracking, nothing).
+
+If you enjoy this test, please share it with others. The quality of our research improves with each participant, so we're grateful for your involvement!"
