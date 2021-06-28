@@ -58,7 +58,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# What is Personality?
+# What is Personality? (LECTURE)
 
 ## What is Personality? (01.01)
 <!-- original version -->
@@ -106,7 +106,7 @@ embed_url("https://www.youtube.com/watch?v=1TSq1LaAIdA") %>%
   use_align("center")
 ```
 
-# What's My Personality (Activity)
+# What's My Personality? (ACTIVITITY)
 
 
 ## Big Five Inventory
