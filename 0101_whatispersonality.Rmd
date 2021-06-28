@@ -44,7 +44,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 	
 ### Engage
 * Activities
-	* [Big Five Inventory-2 (BFI-2)](https://projects.fivethirtyeight.com/personality-quiz/)
+	* What's my Personality Activity
 
 ### Evaluate
 * Quiz
