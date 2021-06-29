@@ -58,7 +58,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# What is Personality? (LECTURE)
+# What is Personality?
 
 ## What is Personality? (01.01)
 <!-- original version -->
@@ -86,7 +86,6 @@ embed_url("https://www.youtube.com/watch?v=RFCl_aPcPHA") %>%
   use_align("center")
 ```
 
-
 Here's the link to the [Meta Milgram Study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093927)
 
 Haslam N, Loughnan S, Perry G (2014) Meta-Milgram: An Empirical Synthesis of the Obedience Experiments. PLoS ONE 9(4): e93927. https://doi.org/10.1371/journal.pone.0093927
@@ -106,10 +105,10 @@ embed_url("https://www.youtube.com/watch?v=1TSq1LaAIdA") %>%
   use_align("center")
 ```
 
-# What's My Personality? (ACTIVITITY)
-
+# What's My Personality? (ACTIVITY)
 
 ## Big Five Inventory
+
 Here is the link to the 538 version of the [Big Five Inventory-2 (BFI2)](https://projects.fivethirtyeight.com/personality-quiz/). It is 30 items (questions). I encourage you to read the accompanying article by [Maggie Koerth](https://twitter.com/maggiekb1) (2018): ["Most Personality Quizzes Are Junk Science. I Found One That Isn't"](https://fivethirtyeight.com/features/most-personality-quizzes-are-junk-science-i-found-one-that-isnt/).
 
 ## SAPA Project
