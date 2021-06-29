@@ -14,19 +14,22 @@ library(DT)
 ```{r links, child="links.md"}
 ```
 
-This overview is designed to orient you to the class as well as show you the rationale underlying them. Every module will follow a similar structure. First, I'll provide an overview of the topic and provide actionable learning goals. Please watch the videos from this [playlist][ds4p-pl-00] and work your way through the notes. Although the module-level playlists are embedded in the course, you can find the full-course video playlist [here][ds4p-pl-all]. In addition, you can find the slides for this module [here](https://github.com/DataScience4Psych/DataScience4Psych/blob/main/admin/pdfs/001_Introduction.pdf).
+
+This overview is designed to orient you to the class as well as show you the rationale underlying them. Every module will follow a similar structure. First, I'll provide an overview of the topic and provide actionable learning goals. Please watch the videos from this [playlist][ds4p-pl-00] and work your way through the notes. Although the module-level playlists are embedded in the course, you can find the full-course video playlist [here][ds4p-pl-all].
+
+
+```{r, echo=FALSE}
+library(vembedr)
+# fall 2020
+embed_url("https://www.youtube.com/watch?v=gMe4qSDiJfU") %>%
+  use_align("center")
+```
 
 
 By the end of each module, you should be able to achieve all the learning goals outlined below. For this module those goals are...
 
 <!--  https://ytplaylist-len.herokuapp.com/ -->
 
-
-```{r, echo=FALSE}
-library(vembedr)
-embed_url("https://www.youtube.com/watch?v=HU39nOxcJYg&list=PLKrrdtYgOUYaEAnJX20Ryy4OSie375rVY") %>%
-  use_align("center")
-```
 
 
 ## Learning Goals for this Module (Chapter 0)
