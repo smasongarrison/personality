@@ -30,6 +30,7 @@
 [personality-puzzle]: https://wwnorton.com/books/The-Personality-Puzzle/
 [albano-class]: https://www.thetaminusb.com/intro-measurement-r/
 [noba-naturenurture]: http://noba.to/tvz92edh
+
 <!--R Links-->
 [cran]: https://cloud.r-project.org
 [cran-faq]: https://cran.r-project.org/faqs.html
