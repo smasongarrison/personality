@@ -1,12 +1,13 @@
 
 <!--CN4P Links-->
-[web]: https://datascience4psych.github.io/DataScience4Psych
-[git]: https://github.com/DataScience4Psych/DataScience4Psych
+[web]: https://smasongarrison.github.io/personality
+[git]: https://github.com/smasongarrison/personality
 [slides]: https://github.com/DataScience4Psych/slides
+[edits]: https://github.com/smasongarrison/personality/commits/main
 
 [pl-00]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYaEAnJX20Ryy4OSie375rVY
 [pl-01]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYao_7t5ycK4KDXNKaY-ECup
-[pl-02]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZmr_T3PnuxjVIlj0C0kUNI
+[pl-02]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbl28Bp_qnCAuXqGT3fXlvf
 [pl-03]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYaHmjzdRvfg0yhOIYQnfjwE
 [pl-04]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYWFcel6_vp8__RUKLxhX4y
 [pl-05]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYMIguiV1F8RagMYibTY4iW
