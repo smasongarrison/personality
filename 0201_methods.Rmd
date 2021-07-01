@@ -70,7 +70,15 @@ embed_url("https://www.youtube.com/watch?v=XN1GeS7FSio") %>%
   use_align("center")
 ```
 
-## Self and Informant Data (02.02)
+## Self Data (02.02)
+<!-- updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=1Bdt3v6bW2k") %>%
+  use_align("center")
+```
+
+## Informant Data (02.03)
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
