@@ -1,67 +1,41 @@
 
 <!--CN4P Links-->
-[ds4p-web]: https://datascience4psych.github.io/DataScience4Psych
-[ds4p-git]: https://github.com/DataScience4Psych/DataScience4Psych
-[ds4p-slides]: https://github.com/DataScience4Psych/slides
+[web]: https://datascience4psych.github.io/DataScience4Psych
+[git]: https://github.com/DataScience4Psych/DataScience4Psych
+[slides]: https://github.com/DataScience4Psych/slides
 
-[ds4p-pl-00]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYaEAnJX20Ryy4OSie375rVY
-[ds4p-pl-01]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYao_7t5ycK4KDXNKaY-ECup
-[ds4p-pl-02]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZmr_T3PnuxjVIlj0C0kUNI
-[ds4p-pl-03]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYaHmjzdRvfg0yhOIYQnfjwE
-[ds4p-pl-04]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYWFcel6_vp8__RUKLxhX4y
-[ds4p-pl-05]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYMIguiV1F8RagMYibTY4iW
-[ds4p-pl-06]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYV_KDod3Mk9-RmtFXii9Dv
-[ds4p-pl-07]: https://www.youtube.com/watch?list=PLKrrdtYgOUYZxvEvQ8-PcWrOY_dwY_ETI
-[ds4p-pl-08]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZgOzYB_dmauw55M7jXvsdo
-[ds4p-pl-09]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbaiTmldRY2ddsLrHp3z6yO
-[ds4p-pl-10]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbPw5iYzYEzoOKa7mJKNIhq
-[ds4p-pl-11]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ-u6LzBbanrNFoeLHKaLL6
-[ds4p-pl-12]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbwRS-9Htmb80_t1NG-021e
-[ds4p-pl-13]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbWGmSnbLIYwdLOnGm6une6
-[ds4p-pl-14]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbWGmSnbLIYwdLOnGm6une6
-[ds4p-pl-15]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYa5MoYrV8EsWQ5jIr5ZYMpM
-[ds4p-pl-all]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbWGmSnbLIYwdLOnGm6une6
+[pl-00]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYaEAnJX20Ryy4OSie375rVY
+[pl-01]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYao_7t5ycK4KDXNKaY-ECup
+[pl-02]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZmr_T3PnuxjVIlj0C0kUNI
+[pl-03]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYaHmjzdRvfg0yhOIYQnfjwE
+[pl-04]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYWFcel6_vp8__RUKLxhX4y
+[pl-05]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYMIguiV1F8RagMYibTY4iW
+[pl-06]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYV_KDod3Mk9-RmtFXii9Dv
+[pl-07]: https://www.youtube.com/watch?list=PLKrrdtYgOUYZxvEvQ8-PcWrOY_dwY_ETI
+[pl-08]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZgOzYB_dmauw55M7jXvsdo
+[pl-09]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbaiTmldRY2ddsLrHp3z6yO
+[pl-10]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbPw5iYzYEzoOKa7mJKNIhq
+[pl-11]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ-u6LzBbanrNFoeLHKaLL6
+[pl-12]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbwRS-9Htmb80_t1NG-021e
+[pl-13]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbWGmSnbLIYwdLOnGm6une6
+[pl-14]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbWGmSnbLIYwdLOnGm6une6
+[pl-15]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYa5MoYrV8EsWQ5jIr5ZYMpM
+[pl-all]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbWGmSnbLIYwdLOnGm6une6
 
+<!-- keep-->
 
-<!--AE. Links-->
-[ae-02-bechdel]: https://github.com/DataScience4Psych/ae-02-bechdel-rmarkdown
-[ae-01a-un-votes]: https://github.com/DataScience4Psych/ae-01a-un-votes
-[ae-01b-covid]: https://github.com/DataScience4Psych/ae-01b-covid
-[ae-03-starwars-dataviz]: https://github.com/DataScience4Psych/ae-03-starwars-dataviz
-
-
-<!-- Lab Links-->
-
-[lab-01-hello]: https://github.com/DataScience4Psych/lab-01-hello-r
-
-<!--Slides-->
-[d01_welcome]: https://datascience4psych.github.io/slides/d01_welcome/d01_welcome.html
-[d02_toolkit]: https://datascience4psych.github.io/slides/d02_toolkit/d02_toolkit.html
-[d03_dataviz]: https://datascience4psych.github.io/slides/d03_dataviz/d03_dataviz.html
-[d04_ggplot2]: https://datascience4psych.github.io/slides/d04_ggplot2/d04_ggplot2.html
-[d05_viznum]: https://datascience4psych.github.io/slides/d05_viznum/d05_viznum.html
-[d06_vizcat]: https://datascience4psych.github.io/slides/d06_vizcat/d06_vizcat.html
-[d07_tidy]: https://datascience4psych.github.io/slides/d07_tidy/d07_tidy.html
-[d08_grammar]: https://datascience4psych.github.io/slides/d08_grammar/d08_grammar.html
-[d09_wrangle]: https://datascience4psych.github.io/slides/d09_wrangle/d09_wrangle.html
-[d10_dfs]: https://datascience4psych.github.io/slides/d10_dfs/d10_dfs.html
-[d11_types]: https://datascience4psych.github.io/slides/d11_types/d11_types.html
-[d12_import]: https://datascience4psych.github.io/slides/d12_import/d12_import.html
-[d13_goodviz]: https://datascience4psych.github.io/slides/d13_goodviz/d13_goodviz.html
-[d13b_moreggplot]: https://datascience4psych.github.io/slides/d13_goodviz/d13b_moreggplot.html
-[d14_confound]: https://datascience4psych.github.io/slides/d14_confound/d14_confound.html
-[d15_goodtalk]: https://datascience4psych.github.io/slides/d15_goodtalk/d15_goodtalk.html
-[d16_webscraping]: https://datascience4psych.github.io/slides/d16_webscraping/d16_webscraping.html
-[d17_functions]: https://datascience4psych.github.io/slides/d17_functions/d17_functions.html
-[d18_ethics]: https://datascience4psych.github.io/slides/d18_ethics/d18_ethics.html
-[d19_bias]: https://datascience4psych.github.io/slides/d19_bias/d19_bias.html
+[stat-545]: https://stat545.com
+[jennybryan]: https://jennybryan.org
+[personality-puzzle]: https://wwnorton.com/books/The-Personality-Puzzle/
+[albano-class]: https://www.thetaminusb.com/intro-measurement-r/
+[noba-naturenurture]: http://noba.to/tvz92edh
 <!--R Links-->
 [cran]: https://cloud.r-project.org
 [cran-faq]: https://cran.r-project.org/faqs.html
 [cran-R-admin]: http://cran.r-project.org/doc/manuals/R-admin.html
 [cran-add-ons]: https://cran.r-project.org/doc/manuals/R-admin.html#Add_002don-packages
 [r-proj]: https://www.r-project.org
-[stat-545]: https://stat545.com
+
 [software-carpentry]: https://software-carpentry.org
 [cran-r-extensions]: https://cran.r-project.org/doc/manuals/r-release/R-exts.html
 
