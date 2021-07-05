@@ -17,7 +17,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 This module introduces you to our course in Personality Psychology. 
 Please watch the videos and work your way through the notes. 
-**The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
+**The videos start on the next page.**  You can find the module playlist [here][pl-01]. 
 Most of the slides used to make the videos in this module can be found in the [slides repo][slides]. 
 
 ## Learning Goals
@@ -58,7 +58,9 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# What is Personality?
+# What is Personality? {#whatisvideo}
+
+This sequence of videos 
 
 ## What is Personality? (01.01)
 <!-- original version -->
