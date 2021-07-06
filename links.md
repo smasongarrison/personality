@@ -27,8 +27,27 @@
 <!-- norton ebook personality puzzle-->
 [personality-puzzle]: https://wwnorton.com/books/The-Personality-Puzzle/
 
-[ppch1]: https://digital.wwnorton.com/75895/r/goto/cfi/22!/4
-
+[ppch1_intro]: https://digital.wwnorton.com/75895/r/goto/cfi/22!/4
+[ppch2_method]: https://digital.wwnorton.com/75895/r/goto/cfi/34!/4
+[ppch3_measure]: https://digital.wwnorton.com/75895/r/goto/cfi/46!/4
+[ppch4]: https://digital.wwnorton.com/75895/r/goto/cfi/64!/4
+[ppch5]: https://digital.wwnorton.com/75895/r/goto/cfi/80!/4
+[ppch6]: https://digital.wwnorton.com/75895/r/goto/cfi/92!/4
+[ppch7]: https://digital.wwnorton.com/75895/r/goto/cfi/108!/4
+[ppch8]: https://digital.wwnorton.com/75895/r/goto/cfi/124!/4
+[ppch9_all]: https://digital.wwnorton.com/75895/r/goto/cfi/136!/4
+[ppch9_behaviorgenetics]: https://digital.wwnorton.com/75895/r/goto/cfi/138!/4
+[ppch9_evopsych]: https://digital.wwnorton.com/75895/r/goto/cfi/140!/4
+[ppch10]: https://digital.wwnorton.com/75895/r/goto/cfi/150!/4
+[ppch11]: https://digital.wwnorton.com/75895/r/goto/cfi/176!/4
+[ppch12_all]: https://digital.wwnorton.com/75895/r/goto/cfi/190!/4
+[ppch12_positive]: https://digital.wwnorton.com/75895/r/goto/cfi/200!/4
+[ppch12_happy]: https://digital.wwnorton.com/75895/r/goto/cfi/202!/4
+[ppch13_culture]: https://digital.wwnorton.com/75895/r/goto/cfi/208!/4
+[ppch14_processes]:https://digital.wwnorton.com/75895/r/goto/cfi/228!/4 
+[ppch15_self]:https://digital.wwnorton.com/75895/r/goto/cfi/244!/4
+[ppch16_business]:https://digital.wwnorton.com/75895/r/goto/cfi/262!/4
+[ppch17_health]:https://digital.wwnorton.com/75895/r/goto/cfi/272!/4
 <!-- keep-->
 
 [stat-545]: https://stat545.com
