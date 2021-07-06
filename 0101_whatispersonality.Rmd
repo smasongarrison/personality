@@ -35,7 +35,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 ### Explore
 * Readings
   * Chapter 1 from the Personality Puzzle "THE STUDY OF THE PERSON" 
-	  *  [Norton Ebook Link](https://digital.wwnorton.com/75895/r/goto/cfi/22!/4) 
+	  *  [Norton Ebook Link][ppch1]
 	  *  8th edition starts on page 2
 * Videos
   * Located in the subchapters of this module
@@ -60,9 +60,10 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 # What is Personality? {#whatisvideo}
 
-This sequence of videos 
+This sequence of videos introduces personality psychology. It is approximately XXX in length using this [neat webapp][ytplaylist].
 
 ## What is Personality? (01.01)
+
 <!-- original version -->
 
 ```{r, echo=FALSE}
@@ -88,11 +89,12 @@ embed_url("https://www.youtube.com/watch?v=RFCl_aPcPHA") %>%
   use_align("center")
 ```
 
-Here's the link to the [Meta Milgram Study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093927)
+[You can read the Meta Milgram Study yourself for free!](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093927)
 
-Haslam N, Loughnan S, Perry G (2014) Meta-Milgram: An Empirical Synthesis of the Obedience Experiments. PLoS ONE 9(4): e93927. https://doi.org/10.1371/journal.pone.0093927
+Haslam N, Loughnan S, Perry G (2014). Meta-Milgram: An Empirical Synthesis of the Obedience Experiments. PLoS ONE 9(4): e93927. https://doi.org/10.1371/journal.pone.0093927
 
 ## How do we define personality? (01.04)
+
 <!-- updated -->
 ```{r, echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=olYigoNfBto") %>%
@@ -107,7 +109,9 @@ embed_url("https://www.youtube.com/watch?v=1TSq1LaAIdA") %>%
   use_align("center")
 ```
 
-# What's My Personality? (ACTIVITY)
+# What's My Personality?  {#whatisactivity}
+
+This sequence of activities expands upon what I've introduced in the videos. Check them out!
 
 ## Big Five Inventory
 

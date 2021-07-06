@@ -24,227 +24,20 @@
 [pl-15]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYa5MoYrV8EsWQ5jIr5ZYMpM
 [pl-all]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbWGmSnbLIYwdLOnGm6une6
 
+<!-- norton ebook personality puzzle-->
+[personality-puzzle]: https://wwnorton.com/books/The-Personality-Puzzle/
+
+[ppch1]: https://digital.wwnorton.com/75895/r/goto/cfi/22!/4
+
 <!-- keep-->
 
 [stat-545]: https://stat545.com
 [jennybryan]: https://jennybryan.org
-[personality-puzzle]: https://wwnorton.com/books/The-Personality-Puzzle/
+
 [albano-class]: https://www.thetaminusb.com/intro-measurement-r/
-[noba-naturenurture]: http://noba.to/tvz92edh
+[noba]: https://nobaproject.com/
+[ytplaylist]: https://ytplaylist-len.herokuapp.com/
 
-<!--R Links-->
-[cran]: https://cloud.r-project.org
-[cran-faq]: https://cran.r-project.org/faqs.html
-[cran-R-admin]: http://cran.r-project.org/doc/manuals/R-admin.html
-[cran-add-ons]: https://cran.r-project.org/doc/manuals/R-admin.html#Add_002don-packages
-[r-proj]: https://www.r-project.org
-
-[software-carpentry]: https://software-carpentry.org
-[cran-r-extensions]: https://cran.r-project.org/doc/manuals/r-release/R-exts.html
-
-<!--RStudio Links-->
-[rstudio-preview]: https://www.rstudio.com/products/rstudio/download/preview/
-[rstudio-official]: https://www.rstudio.com/products/rstudio/#Desktop
-[rstudio-workbench]: https://www.rstudio.com/wp-content/uploads/2014/04/rstudio-workbench.png
-[rstudio-support]: https://support.rstudio.com/hc/en-us
-[rstudio-R-help]: https://support.rstudio.com/hc/en-us/articles/200552336-Getting-Help-with-R
-[rstudio-customizing]: https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio
-[rstudio-key-shortcuts]: https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts
-[rstudio-command-history]: https://support.rstudio.com/hc/en-us/articles/200526217-Command-History
-[rstudio-using-projects]: https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects
-[rstudio-code-snippets]: https://support.rstudio.com/hc/en-us/articles/204463668-Code-Snippets
-[rstudio-dplyr-cheatsheet-download]: https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf
-[rstudio-regex-cheatsheet]: https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf
-[rstudio-devtools]: https://www.rstudio.com/products/rpackages/devtools/
-
-<!--HappyGitWithR Links-->
-[happy-git]: https://happygitwithr.com
-[hg-install-git]: https://happygitwithr.com/install-git.html
-[hg-git-client]: https://happygitwithr.com/git-client.html
-[hg-github-account]: https://happygitwithr.com/github-acct.html
-[hg-install-r-rstudio]: https://happygitwithr.com/install-r-rstudio.html
-[hg-connect-intro]: https://happygitwithr.com/connect-intro.html
-[hg-browsability]: https://happygitwithr.com/workflows-browsability.html
-[hg-shell]: https://happygitwithr.com/shell.html
-
-<!--Package Links-->
-[rmarkdown]: https://rmarkdown.rstudio.com
-[knitr-faq]: https://yihui.name/knitr/faq/
-
-[tidyverse-main-page]: https://www.tidyverse.org
-[tidyverse-web]: https://tidyverse.tidyverse.org
-[tidyverse-github]: https://github.com/hadley/tidyverse
-
-[dplyr-web]: https://dplyr.tidyverse.org
-[dplyr-cran]: https://CRAN.R-project.org/package=dplyr
-[dplyr-github]: https://github.com/hadley/dplyr
-[dplyr-vignette-intro]: https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html
-[dplyr-vignette-window-fxns]: https://cran.r-project.org/web/packages/dplyr/vignettes/window-functions.html
-[dplyr-vignette-two-table]: https://dplyr.tidyverse.org/articles/two-table.html
-
-[lubridate-web]: https://lubridate.tidyverse.org
-[lubridate-cran]: https://CRAN.R-project.org/package=lubridate
-[lubridate-github]: https://github.com/tidyverse/lubridate
-[lubridate-vignette]: https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html
-
-[tidyr-web]: https://tidyr.tidyverse.org
-[tidyr-cran]: https://CRAN.R-project.org/package=tidyr 
-
-[readr-web]: https://readr.tidyverse.org
-[readr-vignette-intro]: https://cran.r-project.org/web/packages/readr/vignettes/readr.html
-
-[stringr-web]: https://stringr.tidyverse.org
-[stringr-cran]: https://CRAN.R-project.org/package=stringr
-
-[ggplot2-web]: https://ggplot2.tidyverse.org
-[ggplot2-tutorial]: https://github.com/jennybc/ggplot2-tutorial
-[ggplot2-reference]: https://docs.ggplot2.org/current/
-[ggplot2-cran]: https://CRAN.R-project.org/package=ggplot2
-[ggplot2-github]: https://github.com/tidyverse/ggplot2
-[ggplot2-theme-args]: https://ggplot2.tidyverse.org/reference/ggtheme.html#arguments
-
-[gapminder-web]: https://www.gapminder.org
-[gapminder-cran]: https://CRAN.R-project.org/package=gapminder
-
-[assertthat-cran]: https://CRAN.R-project.org/package=assertthat
-[assertthat-github]: https://github.com/hadley/assertthat
-
-[ensurer-cran]: https://CRAN.R-project.org/package=ensurer
-[ensurer-github]: https://github.com/smbache/ensurer
-
-[assertr-cran]: https://CRAN.R-project.org/package=assertr
-[assertr-github]: https://github.com/ropensci/assertr
-
-[assertive-cran]: https://CRAN.R-project.org/package=assertive
-[assertive-bitbucket]: https://bitbucket.org/richierocks/assertive/src/master/
-
-[testthat-cran]: https://CRAN.R-project.org/package=testthat
-[testthat-github]: https://github.com/r-lib/testthat
-[testthat-web]: https://testthat.r-lib.org
-
-[viridis-cran]: https://CRAN.R-project.org/package=viridis
-[viridis-github]: https://github.com/sjmgarnier/viridis
-[viridis-vignette]: https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html
-
-[colorspace-cran]: https://CRAN.R-project.org/package=colorspace
-[colorspace-vignette]: https://cran.r-project.org/web/packages/colorspace/vignettes/hcl-colors.pdf
-
-[cowplot-cran]: https://CRAN.R-project.org/package=cowplot
-[cowplot-github]: https://github.com/wilkelab/cowplot
-[cowplot-vignette]: https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html
-
-[devtools-cran]: https://CRAN.R-project.org/package=devtools
-[devtools-github]: https://github.com/r-lib/devtools
-[devtools-web]: https://devtools.r-lib.org
-[devtools-cheatsheet]: https://www.rstudio.com/wp-content/uploads/2015/03/devtools-cheatsheet.pdf
-[devtools-cheatsheet-old]: https://rawgit.com/rstudio/cheatsheets/master/package-development.pdf
-[devtools-1-6]: https://blog.rstudio.com/2014/10/02/devtools-1-6/
-[devtools-1-8]: https://blog.rstudio.com/2015/05/11/devtools-1-9-0/
-[devtools-1-9-1]: https://blog.rstudio.com/2015/09/13/devtools-1-9-1/
-
-[googlesheets-cran]: https://CRAN.R-project.org/package=googlesheets
-[googlesheets-github]: https://github.com/jennybc/googlesheets
-
-[tidycensus-cran]: https://CRAN.R-project.org/package=tidycensus
-[tidycensus-github]: https://github.com/walkerke/tidycensus
-[tidycensus-web]: https://walkerke.github.io/tidycensus/index.html
-
-[fs-web]: https://fs.r-lib.org/index.html
-[fs-cran]: https://CRAN.R-project.org/package=fs
-[fs-github]: https://github.com/r-lib/fs
-
-[plumber-web]: https://www.rplumber.io
-[plumber-docs]: https://www.rplumber.io/docs/
-[plumber-github]: https://github.com/trestletech/plumber
-[plumber-cran]: https://CRAN.R-project.org/package=plumber
-
-[plyr-web]: http://plyr.had.co.nz
-
-[magrittr-web]: https://magrittr.tidyverse.org
-[forcats-web]: https://forcats.tidyverse.org
-[glue-web]: https://glue.tidyverse.org
-[stringi-cran]: https://CRAN.R-project.org/package=stringi
-[rex-github]: https://github.com/kevinushey/rex
-[rcolorbrewer-cran]: https://CRAN.R-project.org/package=RColorBrewer
-[dichromat-cran]: https://CRAN.R-project.org/package=dichromat
-
-[rdryad-web]: https://docs.ropensci.org/rdryad/
-[rdryad-cran]: https://CRAN.R-project.org/package=rdryad
-[rdryad-github]: https://github.com/ropensci/rdryad
-
-[roxygen2-cran]: https://CRAN.R-project.org/package=roxygen2
-[roxygen2-vignette]: https://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html
-
-[shinythemes-web]: https://rstudio.github.io/shinythemes/
-[shinythemes-cran]: https://CRAN.R-project.org/package=shinythemes
-
-[shinyjs-web]: https://deanattali.com/shinyjs/
-[shinyjs-cran]: https://CRAN.R-project.org/package=shinyjs
-[shinyjs-github]: https://github.com/daattali/shinyjs
-
-[leaflet-web]: https://rstudio.github.io/leaflet/
-[leaflet-cran]: https://CRAN.R-project.org/package=leaflet
-[leaflet-github]: https://github.com/rstudio/leaflet
-
-[ggvis-web]: https://ggvis.rstudio.com
-[ggvis-cran]: https://CRAN.R-project.org/package=ggvis
- 
-[usethis-web]: https://usethis.r-lib.org
-[usethis-cran]: https://CRAN.R-project.org/package=usethis
-[usethis-github]: https://github.com/r-lib/usethis
-
-[pkgdown-web]: https://pkgdown.r-lib.org
-[gh-github]: https://github.com/r-lib/gh
-
-[httr-web]: https://httr.r-lib.org
-[httr-cran]: https://CRAN.R-project.org/package=httr
-[httr-github]: https://github.com/r-lib/httr
-
-[gistr-web]: https://docs.ropensci.org/gistr
-[gistr-cran]: https://CRAN.R-project.org/package=gistr
-[gistr-github]: https://github.com/ropensci/gistr
-
-[rvest-web]: https://rvest.tidyverse.org
-[rvest-cran]: https://CRAN.R-project.org/package=rvest
-[rvest-github]: https://github.com/tidyverse/rvest
-
-[xml2-web]: https://xml2.r-lib.org
-[xml2-cran]: https://CRAN.R-project.org/package=xml2
-[xml2-github]: https://github.com/r-lib/xml2
-
-[jsonlite-paper]: https://arxiv.org/abs/1403.2805
-[jsonlite-cran]: https://CRAN.R-project.org/package=jsonlite
-[jsonlite-github]: https://github.com/jeroen/jsonlite
-
-[readxl-web]: https://readxl.tidyverse.org
-[readxl-github]: https://github.com/tidyverse/readxl
-[readxl-cran]: https://CRAN.R-project.org/package=readxl
-
-[janitor-web]: http://sfirke.github.io/janitor/
-[janitor-cran]: https://CRAN.R-project.org/package=janitor
-[janitor-github]: https://github.com/sfirke/janitor
-
-[purrr-web]: https://purrr.tidyverse.org
-[curl-cran]: https://CRAN.R-project.org/package=curl
-
-<!--Shiny links-->
-[shinydashboard-web]: https://rstudio.github.io/shinydashboard/
-[shinydashboard-cran]: https://CRAN.R-project.org/package=shinydashboard
-[shinydashboard-github]: https://github.com/rstudio/shinydashboard
-
-
-[shiny-official-web]: https://shiny.rstudio.com
-[shiny-official-tutorial]: https://shiny.rstudio.com/tutorial/
-[shiny-cheatsheet]: https://shiny.rstudio.com/images/shiny-cheatsheet.pdf
-[shiny-articles]: https://shiny.rstudio.com/articles/
-[shiny-bookdown]: https://bookdown.org/yihui/rmarkdown/shiny-documents.html
-[shiny-google-groups]: https://groups.google.com/forum/#!forum/shiny-discuss
-[shiny-stack-overflow]: https://stackoverflow.com/questions/tagged/shiny
-[shinyapps-web]: https://www.shinyapps.io
-[shiny-server-setup]: https://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/
-[shiny-reactivity]: https://shiny.rstudio.com/articles/understanding-reactivity.html
-[shiny-debugging]: https://shiny.rstudio.com/articles/debugging.html
-[shiny-server]: https://www.rstudio.com/products/shiny/shiny-server/
 
 <!--Publications--> 
 [adv-r]: http://adv-r.had.co.nz
@@ -382,4 +175,3 @@
 [build-maintain-r-packages]: https://thepoliticalmethodologist.com/2014/08/14/building-and-maintaining-r-packages-with-devtools-and-roxygen2/
 [murdoch-package-vignette-slides]: https://web.archive.org/web/20160824010213/http://www.stats.uwo.ca/faculty/murdoch/ism2013/5Vignettes.pdf
 [how-r-searches]: http://blog.obeautifulcode.com/R/How-R-Searches-And-Finds-Stuff/
-
