@@ -53,7 +53,9 @@ The exploring portion of the class introduces you to the content of the module.
 It will consist of reading texts and viewing videos. 
 Relative to the other two portions of the module, its more passive.
 
-The engagement portion of the class facilitates you engaging with the material, interacting with the other members of the learning community. Students will complete two engagement activities. Most of the time, I'll provide multiple choices for the engagement portion of the module.
+The engagement portion of the class facilitates you engaging with the material, interacting with the other members of the learning community. 
+Students will complete two engagement activities. 
+Most of the time, I'll provide multiple choices for the engagement portion of the module.
 
 In order to successfully complete Module 0, please do the following:
 
@@ -109,16 +111,18 @@ embed_url("https://www.youtube.com/watch?v=1IOCKxgowaQ") %>%
   use_align("center")
 ```
 
-
 Mason Garrison is an assistant professor of quantitative psychology at Wake Forest University. 
 She earned her PhD and MS in Quantitative Methods from Vanderbilt University, and her AB in Economics & Psychology from Washington University in St. Louis. 
 Her research is an eclectic mix of behavior genetics, individual differences (e.g., personality, intelligence), and statistics.
 
-On a more humanizing note, at the start of quarantine, Mason was fostering two feral kittens who had been living behind the freshman dorms. She made the mistake of naming them. So now she has three cats...
+On a more humanizing note, at the start of quarantine, Mason was fostering two feral kittens. 
+They had been living behind the freshman dorms. 
+She made the mistake of naming them. 
+So now she has three cats...
 
-Tukey (namesake: [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)
-Archie (namesake: Archimedes (Links to an external site.))
-Annie (namesake: Anne Anastasi (Links to an external site.)) 
+* Tukey (namesake: [John Tukey](https://en.wikipedia.org/wiki/John_Tukey))
+* Archie (namesake: [Archimedes](https://en.wikipedia.org/wiki/Archimedes))
+* Annie (namesake: [Anne Anastasi](https://en.wikipedia.org/wiki/Anne_Anastasi)) 
 
 ## Website Tour
 

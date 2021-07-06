@@ -22,7 +22,7 @@ This class leans heavily on other peoples' materials and ideas. I have done my b
 * Jenny Bryan's ([jennybryan]) [STAT 545][stat-545]
 * [David Funder's Personality Puzzle][personality-puzzle]
 * Anthony Albano's [Course Notes on "Introduction to Educational and Psychological Measurement"][albano-class]
-* Turkheimer, E. (2021). The nature-nurture question. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from [noba-naturenurture]
+* R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from [noba-naturenurture]
 
 ## Additional Attributions  {-}
 
@@ -82,39 +82,6 @@ knitr::write_bib(c(
 ```
 
 
-# Sitemap {-}
-
-```{r message = FALSE, warning = FALSE, echo = FALSE,error=TRUE}
-library(gt)
-library(tidyverse)
-
-
-make_full = function(myurl,gituser="smasongarrison",myrepo="personality") {
-  paste0('https://',gituser,'.github.io/',myrepo,'/',myurl)
-}
-make_hyperlink = function(myurl,mytext=myurl) {
-  paste0('<a href="',myurl,'">',mytext,'</a>')
-}
-
-df_docs=list.files(path="docs/", '[.]html$', recursive=TRUE)
-
-df <- data.frame(
-  stringsAsFactors = FALSE,
-              title = str_replace_all(str_remove(df_docs, "\\.html"),"[_-]"," "),
-              link = make_full(df_docs)
-)
-
-
-df %>%
-    mutate(
-        link = glue::glue("[website]({link})"),
-        link = map(link, gt::md)) %>%
-    gt()
-
-```
-
-
-
 # Colophon {-}
 
 These notes was written in [bookdown](http://bookdown.org/) inside [RStudio](http://www.rstudio.com/ide/). The [website][web] is hosted with [github](https://www.github.com), The complete source is available from [github][git].
@@ -146,7 +113,3 @@ session$packages %>%
                            bInfo = FALSE,
                            paging = FALSE))
 ```
-
-
-
-
