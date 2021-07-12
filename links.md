@@ -1,5 +1,4 @@
-
-<!--CN4P Links-->
+<!--class Links-->
 [web]: https://smasongarrison.github.io/personality
 [git]: https://github.com/smasongarrison/personality
 [slides]: https://github.com/DataScience4Psych/slides
@@ -48,6 +47,7 @@
 [ppch15_self]:https://digital.wwnorton.com/75895/r/goto/cfi/244!/4
 [ppch16_business]:https://digital.wwnorton.com/75895/r/goto/cfi/262!/4
 [ppch17_health]:https://digital.wwnorton.com/75895/r/goto/cfi/272!/4
+
 <!-- keep-->
 
 [stat-545]: https://stat545.com
@@ -59,45 +59,6 @@
 
 
 <!--Publications--> 
-[adv-r]: http://adv-r.had.co.nz
-[adv-r-fxns]: http://adv-r.had.co.nz/Functions.html
-[adv-r-dsl]: http://adv-r.had.co.nz/dsl.html
-[adv-r-defensive-programming]: http://adv-r.had.co.nz/Exceptions-Debugging.html#defensive-programming
-[adv-r-fxn-args]: http://adv-r.had.co.nz/Functions.html#function-arguments
-[adv-r-return-values]: http://adv-r.had.co.nz/Functions.html#return-values
-[adv-r-closures]: http://adv-r.had.co.nz/Functional-programming.html#closures
-
-[r4ds]: https://r4ds.had.co.nz
-[r4ds-transform]: https://r4ds.had.co.nz/transform.html
-[r4ds-strings]: https://r4ds.had.co.nz/strings.html
-[r4ds-readr-strings]: https://r4ds.had.co.nz/data-import.html#readr-strings
-[r4ds-dates-times]: https://r4ds.had.co.nz/dates-and-times.html
-[r4ds-data-import]: http://r4ds.had.co.nz/data-import.html
-[r4ds-relational-data]: https://r4ds.had.co.nz/relational-data.html
-[r4ds-pepper-shaker]: https://r4ds.had.co.nz/vectors.html#lists-of-condiments
-
-[r-pkgs2]: https://r-pkgs.org/index.html
-[r-pkgs2-whole-game]: https://r-pkgs.org/whole-game.html
-[r-pkgs2-description]: https://r-pkgs.org/description.html
-[r-pkgs2-man]: https://r-pkgs.org/man.htm
-[r-pkgs2-tests]: https://r-pkgs.org/tests.html
-[r-pkgs2-namespace]: https://r-pkgs.org/namespace.html
-[r-pkgs2-vignettes]: https://r-pkgs.org/vignettes.html
-[r-pkgs2-release]: https://r-pkgs.org/release.html
-[r-pkgs2-r-code]: https://r-pkgs.org/r.html#r
-
-[r-graphics-cookbook]: http://shop.oreilly.com/product/0636920023135.do
-
-[cookbook-for-r]: http://www.cookbook-r.com 
-[cookbook-for-r-graphs]: http://www.cookbook-r.com/Graphs/
-[cookbook-for-r-multigraphs]: http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/
-
-[elegant-graphics-springer]: https://www.springer.com/gp/book/9780387981413
-
-[testthat-article]: https://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf
-[worry-about-color]: https://github.com/DataScience4Psych/DataScience4Psych/blob/master/admin/pdfs/Why%20Should%20Engineers%20and%20Scientists%20Be%20Worried%20About%20Color.pdf
-[escaping-rgbland-pdf]: https://eeecon.uibk.ac.at/~zeileis/papers/Zeileis+Hornik+Murrell-2009.pdf
-[escaping-rgbland-doi]: https://doi.org/10.1016/j.csda.2008.11.033
 
 
 <!--R Documentation-->
@@ -133,16 +94,10 @@
 
 
 <!--Misc. Links-->
-[split-apply-combine]: https://www.jstatsoft.org/article/view/v040i01
-[useR-2014-dropbox]: https://www.dropbox.com/sh/i8qnluwmuieicxc/AAAgt9tIKoIm7WZKIyK25lh6a
+
 [gh-pages]: https://pages.github.com
 [html-preview]: http://htmlpreview.github.io
-[tj-mahr-slides]: https://github.com/tjmahr/MadR_Pipelines
-[dataschool-dplyr]: https://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/
 [xckd-randall-munroe]: https://fivethirtyeight.com/features/xkcd-randall-munroe-qanda-what-if/
-[athena-zeus-forehead]: https://tinyurl.com/athenaforehead
-[tidydata-lotr]: https://github.com/jennybc/lotr-tidy#readme
-[minimal-make]: https://kbroman.org/minimal_make/
 [write-data-tweet]: https://twitter.com/vsbuffalo/statuses/358699162679787521
 [belt-and-suspenders]: https://www.wisegeek.com/what-does-it-mean-to-wear-belt-and-suspenders.htm
 [research-workflow]: https://www.carlboettiger.info/2012/05/06/research-workflow.html
