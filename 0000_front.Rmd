@@ -1,4 +1,3 @@
-
 ```{r include = FALSE}
 source("common.R")
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
@@ -12,10 +11,11 @@ library(knitr)
 ```{r links, child="links.md"}
 ```
 
-
-
 # Attribution {-}
-This class leans heavily on other peoples' materials and ideas. I have done my best to document the origin of the materials and ideas. In particular, I have noted those people whose work has been a major contribution as well as those who have additional contributions. You can see specific changes by examining the [edit history on the git repo][edits]
+This class leans heavily on other peoples' materials and ideas. 
+I have done my best to document the origin of the materials and ideas. 
+In particular, I have noted those people whose work has been a major contribution as well as those who have additional contributions. 
+You can see specific changes by examining the [edit history on the git repo][edits]
 
 ## Major Attributions  {-}
 
@@ -84,7 +84,9 @@ knitr::write_bib(c(
 
 # Colophon {-}
 
-These notes was written in [bookdown](http://bookdown.org/) inside [RStudio](http://www.rstudio.com/ide/). The [website][web] is hosted with [github](https://www.github.com), The complete source is available from [github][git].
+These notes was written in [bookdown](http://bookdown.org/) inside [RStudio](http://www.rstudio.com/ide/). 
+The [website][web] is hosted with [github](https://www.github.com). 
+The complete source is available from [github][git].
 
 The book style is based on a design by [Desirée De Leon](https://desiree.rbind.io/).
 
