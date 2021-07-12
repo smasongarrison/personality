@@ -81,10 +81,10 @@ embed_url("https://www.youtube.com/watch?v=1Bdt3v6bW2k") %>%
 ```
 
 ## Informant Data (02.03)
-<!-- not yet updated -->
+<!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=HS5L3bubus8") %>%
+embed_url("https://www.youtube.com/watch?v=J9bMPFLlpAc") %>%
   use_align("center")
 ```
 
