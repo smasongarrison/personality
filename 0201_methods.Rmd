@@ -88,12 +88,12 @@ embed_url("https://www.youtube.com/watch?v=J9bMPFLlpAc") %>%
   use_align("center")
 ```
 
-## Life Outcome and Behavioral Data (02.03)
+## Life Outcome and Behavioral Data (02.04)
 
-<!-- not yet updated -->
+<!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=va0qMg6TTA4") %>%
+embed_url("https://www.youtube.com/watch?v=TSbMg14CqRQ") %>%
   use_align("center")
 ```
 
