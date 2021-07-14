@@ -72,15 +72,15 @@ embed_url("https://www.youtube.com/watch?v=XN1GeS7FSio") %>%
   use_align("center")
 ```
 
-## Self Data (02.02)
-<!-- updated -->
+## Self Data (02.02.01)
+<!-- updated; original was two parts; this notation is here because the numbering differs across videos -->
 
 ```{r, echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=1Bdt3v6bW2k") %>%
   use_align("center")
 ```
 
-## Informant Data (02.03)
+## Informant Data (02.02.02)
 <!-- updated -->
 
 ```{r, echo=FALSE}
@@ -88,7 +88,7 @@ embed_url("https://www.youtube.com/watch?v=J9bMPFLlpAc") %>%
   use_align("center")
 ```
 
-## Life Outcome and Behavioral Data (02.04)
+## Life Outcome and Behavioral Data (02.03)
 
 <!-- updated -->
 
@@ -97,9 +97,8 @@ embed_url("https://www.youtube.com/watch?v=TSbMg14CqRQ") %>%
   use_align("center")
 ```
 
-
 ## Data Quality (02.04)
-<!-- not yet updated -->
+<!-- keep original -->
 ```{r, echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=Py-3LjJYzKk") %>%
   use_align("center")
@@ -114,7 +113,11 @@ embed_url("https://www.youtube.com/watch?v=MgTZUP7Dzlk") %>%
   use_align("center")
 ```
 
-## Causal Inference and Generalizability in Action (02.06)
+
+
+
+
+## Generalizability in Action (02.06)
 
 <!-- testing 08.02/personality 02.06 -->
 
@@ -126,7 +129,7 @@ embed_url("https://www.youtube.com/watch?v=dfNKuqaL-uU") %>%
 ## Research Designs (02.07)
 
 
-<!-- not yet updated -->
+<!-- not yet updated; needs to be reshot -->
 
 ```{r, echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=W9a71BMEajs") %>%
