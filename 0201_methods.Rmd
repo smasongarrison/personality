@@ -107,7 +107,7 @@ embed_url("https://www.youtube.com/watch?v=Py-3LjJYzKk") %>%
 
 ## Introducing Validity and What's a construct? (02.05)
 
-<!-- not yet updated -->
+<!-- keep original -->
 
 ```{r, echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=MgTZUP7Dzlk") %>%
