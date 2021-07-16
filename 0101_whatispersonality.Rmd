@@ -32,6 +32,8 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 ## Module Materials
 
+Remember that to succeed in this course, you should be consuming ALL of the resources in the Explore and Engage sections. Please use the learning goals to organize your notes. Optional materials ARE explicitly marked as optional and are located in the "Extras" subsection
+
 ### Explore
 * Readings
   * Chapter 1 from the Personality Puzzle "THE STUDY OF THE PERSON" 
@@ -50,6 +52,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 * Quiz
 	* Located on Canvas
 
+### Extras
 
 
 ### Estimated Video Length
@@ -58,7 +61,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# What is Personality? {#whatisvideo}
+# Lecture: What is Personality? {#whatisvideo}
 
 This sequence of videos introduces personality psychology. It is approximately XXX in length using this [neat webapp][ytplaylist].
 
@@ -109,7 +112,7 @@ embed_url("https://www.youtube.com/watch?v=1TSq1LaAIdA") %>%
   use_align("center")
 ```
 
-# What's My Personality?  {#whatisactivity}
+# Activity: What's My Personality?  {#whatisactivity}
 
 This sequence of activities expands upon what I've introduced in the videos. Check them out!
 
@@ -128,3 +131,5 @@ Here's the summary straight from the test makers themselves... (source: https://
 The test on this site will give you feedback about your personality on two levels. First, you will receive scores on the 27 personality dimensions that were identified through statistical analyses of 300,000 SAPA participants. Then we will also give you scores on the so-called Big Five factors of personality plus an overall cognition score. Most people spend 15 to 25 minutes on the full test (you can quit in the middle if you want but the feedback won't be as accurate). The test is **entirely free** (absolutely no strings attached) and **completely anonymous** (no cookies, no tracking, nothing).
 
 If you enjoy this test, please share it with others. The quality of our research improves with each participant, so we're grateful for your involvement!"
+
+# Optional: 
