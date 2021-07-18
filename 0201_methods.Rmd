@@ -115,14 +115,12 @@ embed_url("https://www.youtube.com/watch?v=MgTZUP7Dzlk") %>%
 
 
 
+## Causal Inference and Generalizability (02.06)
 
-
-## Generalizability in Action (02.06)
-
-<!-- testing 08.02/personality 02.06 -->
+<!-- updated  -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=dfNKuqaL-uU") %>%
+embed_url("https://www.youtube.com/watch?v=lLk8iWtg22A") %>%
   use_align("center")
 ```
 
