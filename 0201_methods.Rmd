@@ -58,7 +58,12 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 ### Estimated Video Length
 
-<!-- & https://ytplaylist-len.herokuapp.com/ -->
+<!-- https://www.youtube.com/playlist?list=PLKrrdtYgOUYbl28Bp_qnCAuXqGT3fXlvf & https://ytplaylist-len.herokuapp.com/ -->
+No of videos : 11
+
+Average length of video : 10 minutes, 44 seconds
+
+Total length of playlist : 1 hour, 58 minutes, 14 seconds
 
 
 
@@ -113,9 +118,16 @@ embed_url("https://www.youtube.com/watch?v=MgTZUP7Dzlk") %>%
   use_align("center")
 ```
 
+## Generalizability (02.06)
 
+<!-- updated  -->
 
-## Causal Inference and Generalizability (02.06)
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=xpPlRDn4WJM") %>%
+  use_align("center")
+```
+
+## Causal Inference and Generalizability in Action (02.07)
 
 <!-- updated  -->
 
@@ -124,12 +136,21 @@ embed_url("https://www.youtube.com/watch?v=lLk8iWtg22A") %>%
   use_align("center")
 ```
 
-## Research Designs (02.07)
+## Research Designs (02.08)
 
 
-<!-- not yet updated; needs to be reshot -->
+<!-- updated-->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=W9a71BMEajs") %>%
+embed_url("https://www.youtube.com/watch?v=6MKSjsPfYhc") %>%
+  use_align("center")
+```
+
+## Correlational Methods (02.09)
+
+<!-- updated-->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=6MKSjsPfYhc") %>%
   use_align("center")
 ```
