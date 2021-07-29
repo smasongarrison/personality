@@ -137,8 +137,6 @@ embed_url("https://www.youtube.com/watch?v=lLk8iWtg22A") %>%
 ```
 
 ## Research Designs (02.08)
-
-
 <!-- updated-->
 
 ```{r, echo=FALSE}
@@ -151,6 +149,6 @@ embed_url("https://www.youtube.com/watch?v=6MKSjsPfYhc") %>%
 <!-- updated-->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=6MKSjsPfYhc") %>%
+embed_url("https://www.youtube.com/watch?v=E1e5sHbcVfE") %>%
   use_align("center")
 ```
