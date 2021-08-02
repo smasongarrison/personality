@@ -17,7 +17,8 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 This module is designed to introduce you to methods of personality research. 
 Please watch the videos and work your way through the notes. 
-**The videos start on the next page.**  You can find the module playlist [here][pl-02].
+**The videos start on the next page.** 
+You can find the module playlist [here][pl-02].
 
 ## Learning Goals
 
@@ -40,7 +41,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 ### Explore
 * Readings
 	* Chapter 2 from the Personality Puzzle
-	* Located on Canvas
+		  *  [Norton Ebook Link][[ppch2_method]]
 * Videos
   * Located in the subchapters of this module
 * Slidedecks
@@ -51,23 +52,19 @@ By the end of this module, you should be able to achieve all the learning goals 
 	* Located on Canvas
 
 ### Evaluate
-* Activities
+* Quiz
 	* Located on Canvas
 
 
+# Lecture: Personality Research Methods {#methodsvideo}
 
-### Estimated Video Length
+This sequence of videos covers personality research methods. It is approximately 2 hours in length using this [neat webapp][ytplaylist]. Specifically,
 
-<!-- https://www.youtube.com/playlist?list=PLKrrdtYgOUYbl28Bp_qnCAuXqGT3fXlvf & https://ytplaylist-len.herokuapp.com/ -->
-No of videos : 11
+* No of videos : 10
 
-Average length of video : 10 minutes, 44 seconds
+* Average length of video : 11 minutes, 49 seconds
 
-Total length of playlist : 1 hour, 58 minutes, 14 seconds
-
-
-
-# Lecture: Personality Research Methods
+* Total length of playlist : 1 hour, 58 minutes, 14 seconds
 
 ## Roadmap for personality research (02.01)
 <!-- updated -->
@@ -110,7 +107,6 @@ embed_url("https://www.youtube.com/watch?v=Py-3LjJYzKk") %>%
 ```
 
 ## Introducing Validity and What's a construct? (02.05)
-
 <!-- keep original -->
 
 ```{r, echo=FALSE}
@@ -121,7 +117,6 @@ embed_url("https://www.youtube.com/watch?v=MgTZUP7Dzlk") %>%
 ## Generalizability (02.06)
 
 <!-- updated  -->
-
 ```{r, echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=xpPlRDn4WJM") %>%
   use_align("center")
@@ -130,7 +125,6 @@ embed_url("https://www.youtube.com/watch?v=xpPlRDn4WJM") %>%
 ## Causal Inference and Generalizability in Action (02.07)
 
 <!-- updated  -->
-
 ```{r, echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=lLk8iWtg22A") %>%
   use_align("center")
@@ -147,7 +141,6 @@ embed_url("https://www.youtube.com/watch?v=6MKSjsPfYhc") %>%
 ## Correlational Methods (02.09)
 
 <!-- updated-->
-
 ```{r, echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=E1e5sHbcVfE") %>%
   use_align("center")

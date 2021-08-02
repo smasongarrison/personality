@@ -17,8 +17,9 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 This module introduces you to our course in Personality Psychology. 
 Please watch the videos and work your way through the notes. 
-**The videos start on the next page.**  You can find the module playlist [here][pl-01]. 
-Most of the slides used to make the videos in this module can be found in the [slides repo][slides]. 
+**The videos start on the next page.** 
+You can find the module playlist [here][pl-01]. 
+
 
 ## Learning Goals
 
@@ -32,12 +33,13 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 ## Module Materials
 
-Remember that to succeed in this course, you should be consuming ALL of the resources in the Explore and Engage sections. Please use the learning goals to organize your notes. Optional materials ARE explicitly marked as optional and are located in the "Extras" subsection
+Remember that to succeed in this course, you should be consuming ALL of the resources in the Explore and Engage sections. Please use the learning goals to organize your notes. 
+Optional materials ARE explicitly marked as optional and are located in the "Extras" subsection
 
 ### Explore
 * Readings
   * Chapter 1 from the Personality Puzzle "THE STUDY OF THE PERSON" 
-	  *  [Norton Ebook Link][ppch1]
+	  *  [Norton Ebook Link][ppch1_intro]
 	  *  8th edition starts on page 2
 * Videos
   * Located in the subchapters of this module
@@ -52,21 +54,21 @@ Remember that to succeed in this course, you should be consuming ALL of the reso
 * Quiz
 	* Located on Canvas
 
-### Extras
-
-
-### Estimated Video Length
-
-<!--https://www.youtube.com/playlist?list=PLKrrdtYgOUYao_7t5ycK4KDXNKaY-ECup & https://ytplaylist-len.herokuapp.com/ -->
-
+<!-- ### Extras  -->
 
 
 # Lecture: What is Personality? {#whatisvideo}
 
-This sequence of videos introduces personality psychology. It is approximately XXX in length using this [neat webapp][ytplaylist].
+This sequence of videos introduces personality psychology. 
+It is approximately 45 minutes in length using this [neat webapp][ytplaylist]. Specifically,
+
+* No of videos : 5
+
+* Average length of video : 8 minutes, 39 seconds
+
+* Total length of playlist : 43 minutes, 18 seconds.
 
 ## What is Personality? (01.01)
-
 <!-- original version -->
 
 ```{r, echo=FALSE}
@@ -84,7 +86,6 @@ embed_url("https://www.youtube.com/watch?v=q4byLfNoCLw") %>%
 ```
 
 ## Does personality really matter? (01.03)
-
 <!--updated -->
 
 ```{r, echo=FALSE}
@@ -118,11 +119,14 @@ This sequence of activities expands upon what I've introduced in the videos. Che
 
 ## Big Five Inventory
 
-Here is the link to the 538 version of the [Big Five Inventory-2 (BFI2)](https://projects.fivethirtyeight.com/personality-quiz/). It is 30 items (questions). I encourage you to read the accompanying article by [Maggie Koerth](https://twitter.com/maggiekb1) (2018): ["Most Personality Quizzes Are Junk Science. I Found One That Isn't"](https://fivethirtyeight.com/features/most-personality-quizzes-are-junk-science-i-found-one-that-isnt/).
+Here is the link to the 538 version of the [Big Five Inventory-2 (BFI2)](https://projects.fivethirtyeight.com/personality-quiz/). 
+It is 30 items (questions). 
+I encourage you to read the accompanying article by [Maggie Koerth](https://twitter.com/maggiekb1) (2018): ["Most Personality Quizzes Are Junk Science. I Found One That Isn't"](https://fivethirtyeight.com/features/most-personality-quizzes-are-junk-science-i-found-one-that-isnt/).
 
 ## SAPA Project
 
-I (Mason) think that this test battery is the best and most comprehensive personality (and individual differences) questionnaire out there. Get started right [here](https://www.sapa-project.org/survey/start.php)
+I (Mason) think that this test battery is the best and most comprehensive personality (and individual differences) questionnaire out there. 
+Get started right [here](https://www.sapa-project.org/survey/start.php)
 
 Here's the summary straight from the test makers themselves... (source: https://www.sapa-project.org/)
 
@@ -131,5 +135,3 @@ Here's the summary straight from the test makers themselves... (source: https://
 The test on this site will give you feedback about your personality on two levels. First, you will receive scores on the 27 personality dimensions that were identified through statistical analyses of 300,000 SAPA participants. Then we will also give you scores on the so-called Big Five factors of personality plus an overall cognition score. Most people spend 15 to 25 minutes on the full test (you can quit in the middle if you want but the feedback won't be as accurate). The test is **entirely free** (absolutely no strings attached) and **completely anonymous** (no cookies, no tracking, nothing).
 
 If you enjoy this test, please share it with others. The quality of our research improves with each participant, so we're grateful for your involvement!"
-
-# Optional: 

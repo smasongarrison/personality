@@ -15,7 +15,10 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Persons and Situations
 
-This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). Most of the slides used to make the videos in this module can be found in the [slides repo][slides]. 
+This module is introduces the trait approach within the context of the person versus situation debate. 
+Please watch the videos and work your way through the notes. 
+**The videos start on the next page.** 
+You can find the module playlist [here][pl-04]. 
 
 ## Learning Goals
 
@@ -39,7 +42,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 ### Explore
 * Readings
 	* Chapter 4 from the Personality Puzzle
-	* Located on Canvas
+	  *  [Norton Ebook Link][ppch4]
 * Videos
   * Located in the subchapters of this module
 * Slidedecks
@@ -54,39 +57,49 @@ By the end of this module, you should be able to achieve all the learning goals 
 	* Located on Canvas
 
 
+# Lecture: Person vs. Situation? {#pvsvideo}
 
-### Estimated Video Length
+This sequence of videos introduces the person vs situation debate. 
+It is approximately 60 minutes in length using this [neat webapp][ytplaylist]. Specifically,
 
-<!--https://www.youtube.com/playlist?list=PLKrrdtYgOUYao_7t5ycK4KDXNKaY-ECup & https://ytplaylist-len.herokuapp.com/ -->
+* No of videos : 4
 
+* Average length of video : 15 minutes, 37 seconds
 
+* Total length of playlist : 1 hour, 2 minutes, 31 seconds
 
-# What is Module?
-
-## Video 1
+## Person vs Situation (04.01)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://www.youtube.com/watch?v=A1MPuEiphJ4") %>%
   use_align("center")
 ```
 
 
-## Video 2
-
+## Extra Context about the Person Versus Situation Debate (04.02)
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://www.youtube.com/watch?v=LyuIfx2ft-w") %>%
   use_align("center")
 ```
 
-## Video 3
+## What's this debate anyway? (04.03)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://www.youtube.com/watch?v=BGX6csdSgvE") %>%
+  use_align("center")
+```
+
+## Personality and Life (04.04)
+
+<!-- keep -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=eKb-HONj-Ds") %>%
   use_align("center")
 ```

@@ -81,7 +81,6 @@ knitr::write_bib(c(
 ), 'packages.bib')
 ```
 
-
 # Colophon {-}
 
 These notes was written in [bookdown](http://bookdown.org/) inside [RStudio](http://www.rstudio.com/ide/). 

@@ -15,7 +15,10 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Personality Assessment
 
-This module focuses on personality assessment, evaluation, and ethics. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here][pl-03]. Most of the slides used to make the videos in this module can be found in the [slides repo][slides]. 
+This module focuses on personality assessment, evaluation, and ethics. 
+Please watch the videos and work your way through the notes. 
+**The videos start on the next page.**  
+You can find the module playlist [here][pl-03]. 
 
 ## Learning Goals
 
@@ -41,7 +44,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 ### Explore
 * Readings
 	* Chapter 3 from the Personality Puzzle
-	* Located on Canvas
+		  *  [Norton Ebook Link][ppch3_measure]
 * Videos
   * Located in the subchapters of this module
 * Slidedecks
@@ -58,13 +61,16 @@ By the end of this module, you should be able to achieve all the learning goals 
 ### Extras
 	* [My Psychological Testing Course](https://r-computing-lab.github.io/psychtesting/index.html)
 
-### Estimated Video Length
 
-<!--https://www.youtube.com/playlist?list=PLKrrdtYgOUYao_7t5ycK4KDXNKaY-ECup & https://ytplaylist-len.herokuapp.com/ -->
+# Lecture: Personality Assessment {#assessmentvideo}
 
+This sequence of videos introduces personality assessment. It is approximately 2.5 hours in length using this [neat webapp][ytplaylist]. Specifically,
 
+* No of videos : 5
 
-# Lecture: Personality Assessment
+* Average length of video : 28 minutes, 13 seconds
+
+* Total length of playlist : 2 hours, 21 minutes, 8 seconds
 
 ## Personality Assessment (03.01)
 
@@ -75,13 +81,12 @@ embed_url("https://www.youtube.com/watch?v=k8uGttEdKgk") %>%
   use_align("center")
 ```
 
-
 ## Projective Tests (03.02)
 
-<!-- not yet updated -->
+<!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=03lnPLND52k") %>%
+embed_url("https://www.youtube.com/watch?v=Po4UBLMjkwE") %>%
   use_align("center")
 ```
 
