@@ -64,20 +64,20 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 # Lecture: Personality Assessment {#assessmentvideo}
 
-This sequence of videos introduces personality assessment. It is approximately 2.5 hours in length using this [neat webapp][ytplaylist]. Specifically,
+This sequence of videos introduces personality assessment. It is approximately 2.25 hours in length using this [neat webapp][ytplaylist]. Specifically,
 
 * No of videos : 5
 
-* Average length of video : 28 minutes, 13 seconds
+* Average length of video : 26 minutes, 53 seconds
 
-* Total length of playlist : 2 hours, 21 minutes, 8 seconds
+* Total length of playlist : 2 hours, 14 minutes, 26 seconds
 
 ## Personality Assessment (03.01)
 
-<!-- not yet updated -->
+<!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=k8uGttEdKgk") %>%
+embed_url("https://www.youtube.com/watch?v=ym35piQGiGg") %>%
   use_align("center")
 ```
 
@@ -110,7 +110,7 @@ embed_url("https://www.youtube.com/watch?v=c7lz4FPKHsI") %>%
   use_align("center")
 ```
 
-## Ethics (03.04)
+## Ethics (03.05)
 
 
 <!-- not yet updated -->
