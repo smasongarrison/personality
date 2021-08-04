@@ -5,9 +5,9 @@
 [edits]: https://github.com/smasongarrison/personality/commits/main
 
 [pl-00]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYaEAnJX20Ryy4OSie375rVY
-[pl-01]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc
-[pl-02]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbl28Bp_qnCAuXqGT3fXlvf
-[pl-03]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYaKrNixtyUUZyQ026_hNgUY
+[pl-01_intro]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc
+[pl-02_method]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbl28Bp_qnCAuXqGT3fXlvf
+[pl-03_measure]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYaKrNixtyUUZyQ026_hNgUY
 [pl-04]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYY0sLyecnAUTwbHtngcxKKT
 [pl-05]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYCSd-NSmh2Q627OXxtAvEc
 [pl-06]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbf03nKWbcph0O6c0nCshP_
