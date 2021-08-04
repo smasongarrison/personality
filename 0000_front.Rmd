@@ -24,7 +24,7 @@ You can see specific changes by examining the [edit history on the git repo][edi
 * Anthony Albano's [Course Notes on "Introduction to Educational and Psychological Measurement"][albano-class]
 * R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from [noba]
 
-## Additional Attributions  {-}
+<!-- ## Additional Attributions  {-} -->
 
 
 

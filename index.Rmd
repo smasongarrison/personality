@@ -35,7 +35,7 @@ library(readr)
 
 ```
 
-Welcome to class! This website is designed to accompany Mason Garrison's Introduction to Personality Psychology. This class is a undergraduate-level psychology course at Wake Forest University. I encourage anyone who is personality-curious to work their way through these course notes. The course notes include lectures, worked examples, readings, activities, and labs. You can find the current version of the course syllabus along with all of the other syllabi for my classes [here]( https://github.com/smasongarrison/Syllabi). All the embedded lecture videos can be found on a [youtube playlist][ds4p-pl-all]. 
+Welcome to class! This website is designed to accompany Mason Garrison's Introduction to Personality Psychology. This class is a undergraduate-level psychology course at Wake Forest University. I encourage anyone who is personality-curious to work their way through these course notes. The course notes include lectures, worked examples, readings, activities, and labs. You can find the current version of the course syllabus along with all of the other syllabi for my classes [here]( https://github.com/smasongarrison/Syllabi). All the embedded lecture videos can be found on a [youtube playlist][pl-all]. 
 
 ```{r,echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=ESGnk90FHr4") %>%
@@ -54,11 +54,11 @@ class_status <- read_csv("data/class_status.csv"
 #        "08", "09", "10", "11", "12", "13", 
 #        "14", "15")))
 )
-class_status$status=round(rowMeans(class_status[,2:6],na.rm = TRUE),digits = 3)
+class_status$Status=round(rowMeans(class_status[,2:6],na.rm = TRUE),digits = 3)
 ```
 
 
-This website is constantly changing. This new course is in active development, and approximately `r round(mean(class_status$status,na.rm = TRUE),digits = 3)*100`% done. I have made this process explicitly transparent because I want you to see how you can use R to produce some pretty neat things. Indeed, I've included the source code for this website in the class [github](https://github.com/DataScience4Psych). I encourage you to contribute to the [course code](https://github.com/DataScience4Psych/DataScience4Psych). If you catch typos, errors, please issue a pull request with the fixes. If you find cool / useful resources, please add them. By the end of the semester, I would love for everyone to have contributed to the course materials. It can be as simple as adding a course request to the [wishlist](#course-wishlist). I believe that it is useful skill to be able to do. 
+This website is constantly changing. This new course is in active development, and approximately `r round(mean(class_status$Status,na.rm = TRUE),digits = 3)*100`% done. I have made this process explicitly transparent because I want you to see how you can use R to produce some pretty neat things. Indeed, I've included the source code for this website in the class [github[git]. I encourage you to contribute to the [course code][edits]. If you catch typos, errors, please issue a pull request with the fixes. If you find cool / useful resources, please add them. By the end of the semester, I would love for everyone to have contributed to the course materials. It can be as simple as adding a course request to the [wishlist](#course-wishlist). I believe that it is useful skill to be able to do. 
 
 
 
@@ -66,8 +66,7 @@ This website is constantly changing. This new course is in active development, a
 
 This document is broken down into multiple chapters. Use the table of contents on the left side of the screen to navigate, and use the hamburger icon (horizontal bars) at the top of the document to open or close the table of contents. At the top of the document, you'll see additional icons which you can click to search the document, change the size, font or color scheme of the page. The document will be updated (unpredictably) throughout the semester.
 
-
-Every module corresponds to a weeks worth of material. Most modules are dedicated to a specific theme. Within each module, there are embedded videos, slides, activities, labs, and tutorials. The skills developed in each module build upon skills you've developed in previous modules. Eventually, this class will have more modules available than weeks in a semester, so that you -- the reader can choose your own adventure (err... module) you'd like to start with. 
+Every module corresponds to a weeks worth of material. Most modules are dedicated to a specific theme. Within each module, there are embedded videos, slides, activities, labs, and tutorials. The skills developed in each module build upon skills you've developed in previous modules. 
 
 
 Although these notes share some of the features of a textbook, they are neither comprehensive nor completely original. The main purpose is to give you all a set of common materials on which to draw during the course. In class, we will sometimes do things outside the notes. The idea here is that you will read the materials and try to learn from them, just as you will attend classes and try to learn from them.
@@ -78,14 +77,13 @@ In terms of timing, I will have each module completed by the start of the week. 
 
 
 ```{r,echo=FALSE}
-
 # Gromit Placing Rail Tracks for 10 Hours
 
 embed_url("https://www.youtube.com/watch?v=fwJHNw9jU_U") %>%
   use_align("center")
 ```
 
-This table provides the current status of the course. It lists proportions of specific components by module. Overall it is `r round(mean(class_status$status,na.rm = TRUE),digits = 5)*100`% complete. 
+This table provides the current status of the course. It lists proportions of specific components by module. Overall it is `r round(mean(class_status$Status,na.rm = TRUE),digits = 5)*100`% complete. 
 
 
 ```{r message = FALSE, warning = FALSE, echo = FALSE}
@@ -98,7 +96,6 @@ class_status %>%
                            bInfo = FALSE,
                            paging = FALSE))
 ```
-
 
 ```{r links, child="links.md"}
 ```
