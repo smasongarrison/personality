@@ -64,7 +64,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# What is Module?
+# Lecture: What is Module?
 
 ## Video 1
 
