@@ -9,19 +9,18 @@
 [pl-02]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbl28Bp_qnCAuXqGT3fXlvf
 [pl-03]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYaKrNixtyUUZyQ026_hNgUY
 [pl-04]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYY0sLyecnAUTwbHtngcxKKT
-
-[pl-05]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYMIguiV1F8RagMYibTY4iW
-[pl-06]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYV_KDod3Mk9-RmtFXii9Dv
-[pl-07]: https://www.youtube.com/watch?list=PLKrrdtYgOUYZxvEvQ8-PcWrOY_dwY_ETI
-[pl-08]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZgOzYB_dmauw55M7jXvsdo
-[pl-09]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbaiTmldRY2ddsLrHp3z6yO
-[pl-10]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbPw5iYzYEzoOKa7mJKNIhq
-[pl-11]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ-u6LzBbanrNFoeLHKaLL6
-[pl-12]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbwRS-9Htmb80_t1NG-021e
-[pl-13]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbWGmSnbLIYwdLOnGm6une6
-[pl-14]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbWGmSnbLIYwdLOnGm6une6
-[pl-15]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYa5MoYrV8EsWQ5jIr5ZYMpM
-[pl-all]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbWGmSnbLIYwdLOnGm6une6
+[pl-05]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYCSd-NSmh2Q627OXxtAvEc
+[pl-06]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbf03nKWbcph0O6c0nCshP_
+[pl-07]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZDQsFs3e9uJ_YY2y7gXiwM
+[pl-08]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbOGiItvphes7wwqefkCioy
+[pl-09]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZsjLF0xFJWWIbzFscgrGhR
+[pl-10]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYb78jI5IISI7BvDBTDy0U7E
+[pl-11]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYa23pXXLgbI7zLzd-L5hDcB
+[pl-12]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbksGw8fFrWRhW-WcpqvIcl
+[pl-13]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYYJMhOrsZUbSXyUCnJO_9jH
+[pl-14]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYaj7YCtwww-p374RgSlvs_F
+[pl-15]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYbcfD1ZhFGzp1sXdVwnBF0R
+[pl-all]: https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ0gJnugsf4dBKV2Gq388uZ
 
 <!-- norton ebook personality puzzle-->
 [personality-puzzle]: https://wwnorton.com/books/The-Personality-Puzzle/
@@ -43,10 +42,10 @@
 [ppch12_positive]: https://digital.wwnorton.com/75895/r/goto/cfi/200!/4
 [ppch12_happy]: https://digital.wwnorton.com/75895/r/goto/cfi/202!/4
 [ppch13_culture]: https://digital.wwnorton.com/75895/r/goto/cfi/208!/4
-[ppch14_processes]:https://digital.wwnorton.com/75895/r/goto/cfi/228!/4 
-[ppch15_self]:https://digital.wwnorton.com/75895/r/goto/cfi/244!/4
-[ppch16_business]:https://digital.wwnorton.com/75895/r/goto/cfi/262!/4
-[ppch17_health]:https://digital.wwnorton.com/75895/r/goto/cfi/272!/4
+[ppch14_processes]: https://digital.wwnorton.com/75895/r/goto/cfi/228!/4 
+[ppch15_self]: https://digital.wwnorton.com/75895/r/goto/cfi/244!/4
+[ppch16_business]: https://digital.wwnorton.com/75895/r/goto/cfi/262!/4
+[ppch17_health]: https://digital.wwnorton.com/75895/r/goto/cfi/272!/4
 
 <!-- keep-->
 
@@ -59,19 +58,6 @@
 
 
 <!--Publications--> 
-
-
-<!--R Documentation-->
-[rdocs-extremes]: https://rdrr.io/r/base/Extremes.html
-[rdocs-range]: https://rdrr.io/r/base/range.html
-[rdocs-quantile]: https://rdrr.io/r/stats/quantile.html
-[rdocs-c]: https://rdrr.io/r/base/c.html
-[rdocs-list]: https://rdrr.io/r/base/list.html
-[rdocs-lm]: https://rdrr.io/r/stats/lm.html
-[rdocs-coef]: https://rdrr.io/r/stats/coef.html
-[rdocs-devices]: https://rdrr.io/r/grDevices/Devices.html
-[rdocs-ggsave]: https://rdrr.io/cran/ggplot2/man/ggsave.html
-[rdocs-dev]: https://rdrr.io/r/grDevices/dev.html
 
 
 <!--Wikipedia Links-->
