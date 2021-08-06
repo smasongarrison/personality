@@ -1,4 +1,4 @@
-# (PART) Module 06 {-}
+# (PART) Module 13 {-}
 
 ```{r include = FALSE}
 source("common.R")
@@ -15,7 +15,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Personality Judgment and the Self
 
-This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
+This module is about personality judgment and the self. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
 
 ## Learning Goals
 
@@ -32,6 +32,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 * Evaluate the difficulties in creating accurate personality judgments.
 * Understand the circumstances around high and low accuracy of self-knowledge.
 * Describe the ways in which one can improve self-knowledge.
+	
 ### Chapter 15:
 * Understand the distinction between the I and the me and the function of each.
 * Be able to identify the types of self-knowledge (e.g., self-schema, self-esteem, and self-efficacy) that are associated with the declarative self and know how they are measured and what their implications are.
@@ -73,26 +74,26 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 # Lecture: What is Module?
 
-## Video 1
+## Personality Judgment (13.01)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://www.youtube.com/watch?v=uNRIZBF2gLI") %>%
   use_align("center")
 ```
 
 
-## Video 2
+## Moderators of Accuracy (13.02)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://www.youtube.com/watch?v=9aSKEVYUEaU") %>%
   use_align("center")
 ```
 
-## Video 3
+## The Self (13.03)
 
 <!-- not yet updated -->
 
