@@ -15,7 +15,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Personality Stability, Development, and Change
 
-This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
+This module covers personality stability, development, and change. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here][pl-06]
 
 ## Learning Goals
 
@@ -61,32 +61,60 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# Lecture: What is Module?
+# Lecture: Personality over Time
 
-## Video 1
+## Personality over the Lifespan (06.01)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://www.youtube.com/watch?v=b_j5BSXFRx4") %>%
   use_align("center")
 ```
 
 
-## Video 2
+## Personality Stability (06.02)
+
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://www.youtube.com/watch?v=D_AnB53MQ94") %>%
   use_align("center")
 ```
 
-## Video 3
+## Personality Development (06.03)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://www.youtube.com/watch?v=Ervcry6uqHQ") %>%
+  use_align("center")
+```
+
+## Personality Change (06.04)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=ZIJooF8YxHA") %>%
+  use_align("center")
+```
+
+## Narrative Identity (06.05)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/yz7nzur5EhA") %>%
+  use_align("center")
+```
+
+## Dan P. McAdams at TEDxHendrixCollege: “In the Beginning” and “Once upon a Time” (06.06)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/uxB3gSnMiNw") %>%
   use_align("center")
 ```
