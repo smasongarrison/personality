@@ -90,8 +90,30 @@ embed_url("https://www.youtube.com/watch?v=Po4UBLMjkwE") %>%
   use_align("center")
 ```
 
-## Objective Tests (03.03)
+## Objective Tests and Rational Tests (03.03)
 
+
+<!--updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=c79D9ye6u0I") %>%
+  use_align("center")
+```
+
+
+## Factor Analysis (03.04)
+
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=kgTPg8QasEE") %>%
+  use_align("center")
+```
+
+
+## Objective Tests (03.04)
+kgTPg8QasEE
 
 <!-- not yet updated -->
 
@@ -100,7 +122,7 @@ embed_url("https://www.youtube.com/watch?v=NnP_JaCtOM0") %>%
   use_align("center")
 ```
 
-## Evaluation (03.04)
+## Evaluation (03.05)
 
 
 <!-- not yet updated -->
@@ -110,7 +132,7 @@ embed_url("https://www.youtube.com/watch?v=c7lz4FPKHsI") %>%
   use_align("center")
 ```
 
-## Ethics (03.05)
+## Ethics (03.06)
 
 
 <!-- not yet updated -->
