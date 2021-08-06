@@ -1,4 +1,4 @@
-# (PART) Module 08 {-}
+# (PART) Module 07 {-}
 
 ```{r include = FALSE}
 source("common.R")
@@ -62,32 +62,61 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# Lecture: What is Module?
+# Lecture: Biopsych and personality
 
-## Video 1
+## Brains! (07.01)
+
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/Azpleyog8m8") %>%
   use_align("center")
 ```
 
 
-## Video 2
+## Brain-Based Research Methods (07.02)
+
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/MiX8-f-6hjE") %>%
   use_align("center")
 ```
 
-## Video 3
+## Brain Parts (07.03)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/gBymtP_A-cg") %>%
+  use_align("center")
+```
+
+## The Frontal Lobe, Phineas Gage, and Psychosurgery (07.04)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/xp-scBPhFMo") %>%
+  use_align("center")
+```
+
+
+## The Biochemistry of Personality (07.05)
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/95CLJbFG58Q") %>%
+  use_align("center")
+```
+
+## Hormones! (07.06)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/-eQ9naRibcE") %>%
   use_align("center")
 ```
