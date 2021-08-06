@@ -15,7 +15,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Trait Theory
 
-This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
+This module introduces expands upon trait theory. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
 
 ## Learning Goals
 
@@ -60,32 +60,60 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# Lecture: What is Module?
+# Lecture: What is Trait Theory?
 
-## Video 1
+## Personality Traits Roadmap (05.01)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://www.youtube.com/watch?v=ukxPyA223cc") %>%
   use_align("center")
 ```
 
 
-## Video 2
+## The Single- and Multi-Trait Approaches (05.02)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://www.youtube.com/watch?v=2xBoyrhBh3I") %>%
   use_align("center")
 ```
 
-## Video 3
+## The Psychology of Narcissim (05.02b)
+
+<!-- updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=arJLy3hX1E8") %>%
+  use_align("center")
+```
+
+
+## The Essential Trait Approach (05.03)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://www.youtube.com/watch?v=bdERzNy0XAA") %>%
+  use_align("center")
+```
+
+## Big 5 Factors (05.04)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=YyNHU5DP1Fk") %>%
+  use_align("center")
+```
+
+## Personality Types (05.05)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=zzSdhlfbupc") %>%
   use_align("center")
 ```
