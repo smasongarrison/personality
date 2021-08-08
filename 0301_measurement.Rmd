@@ -101,10 +101,10 @@ embed_url("https://www.youtube.com/watch?v=c79D9ye6u0I") %>%
 ```
 
 
-## Factor Analysis (03.04)
+## Objective Tests and Factor Analysis (03.04)
 
 
-<!-- not yet updated -->
+<!-- updated -->
 
 ```{r, echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=kgTPg8QasEE") %>%
@@ -112,13 +112,13 @@ embed_url("https://www.youtube.com/watch?v=kgTPg8QasEE") %>%
 ```
 
 
-## Objective Tests (03.04)
-kgTPg8QasEE
+## Empirical Test Construction (03.05)
 
-<!-- not yet updated -->
+
+<!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=NnP_JaCtOM0") %>%
+embed_url("https://youtu.be/fGpNbi63eBM") %>%
   use_align("center")
 ```
 
