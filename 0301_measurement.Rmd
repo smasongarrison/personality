@@ -132,6 +132,19 @@ embed_url("https://www.youtube.com/watch?v=c7lz4FPKHsI") %>%
   use_align("center")
 ```
 
+
+
+
+## Personality Testing Ethics (03.0X)
+
+
+<!-- updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/PVVNL5Zs1tc") %>%
+  use_align("center")
+```
+
 ## Ethics (03.06)
 
 
