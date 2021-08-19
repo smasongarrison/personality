@@ -72,12 +72,12 @@ This sequence of videos introduces personality assessment. It is approximately 2
 
 * Total length of playlist : 2 hours, 14 minutes, 26 seconds
 
-## Personality Assessment (03.01)
+## Roadmap for personality assessment (03.01)
 
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=ym35piQGiGg") %>%
+embed_url("https://youtu.be/ym35piQGiGg") %>%
   use_align("center")
 ```
 
@@ -86,17 +86,17 @@ embed_url("https://www.youtube.com/watch?v=ym35piQGiGg") %>%
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=Po4UBLMjkwE") %>%
+embed_url("https://youtu.be/Po4UBLMjkwE") %>%
   use_align("center")
 ```
 
-## Objective Tests and Rational Tests (03.03)
+## Rational Objective Tests (03.03)
 
 
 <!--updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=c79D9ye6u0I") %>%
+embed_url("https://youtu.be/c79D9ye6u0I") %>%
   use_align("center")
 ```
 
@@ -107,7 +107,7 @@ embed_url("https://www.youtube.com/watch?v=c79D9ye6u0I") %>%
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=kgTPg8QasEE") %>%
+embed_url("https://youtu.be/kgTPg8QasEE") %>%
   use_align("center")
 ```
 
@@ -122,10 +122,20 @@ embed_url("https://youtu.be/fGpNbi63eBM") %>%
   use_align("center")
 ```
 
-## Evaluation (03.05)
+## Significance Testing (03.06)
 
 
-<!-- not yet updated -->
+<!-- updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/T98LVErpNmI") %>%
+  use_align("center")
+```
+
+## Evaluate (03.07)
+
+
+<!-- not updated -->
 
 ```{r, echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=c7lz4FPKHsI") %>%
@@ -134,8 +144,7 @@ embed_url("https://www.youtube.com/watch?v=c7lz4FPKHsI") %>%
 
 
 
-
-## Personality Testing Ethics (03.0X)
+## Personality Testing Ethics (03.08)
 
 
 <!-- updated -->
@@ -145,9 +154,7 @@ embed_url("https://youtu.be/PVVNL5Zs1tc") %>%
   use_align("center")
 ```
 
-## Ethics (03.06)
-
-
+## Ethics (03.09)
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
