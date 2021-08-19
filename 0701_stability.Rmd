@@ -1,4 +1,4 @@
-# (PART) Module 06 {-}
+# (PART) Module 07 {-}
 
 ```{r include = FALSE}
 source("common.R")
@@ -63,7 +63,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 # Lecture: Personality over Time
 
-## Personality over the Lifespan (06.01)
+## Personality over the Lifespan (07.01)
 
 <!-- not yet updated -->
 
@@ -73,7 +73,7 @@ embed_url("https://www.youtube.com/watch?v=b_j5BSXFRx4") %>%
 ```
 
 
-## Personality Stability (06.02)
+## Personality Stability (07.02)
 
 
 <!-- not yet updated -->
@@ -83,7 +83,7 @@ embed_url("https://www.youtube.com/watch?v=D_AnB53MQ94") %>%
   use_align("center")
 ```
 
-## Personality Development (06.03)
+## Personality Development (07.03)
 
 <!-- not yet updated -->
 
@@ -92,7 +92,7 @@ embed_url("https://www.youtube.com/watch?v=Ervcry6uqHQ") %>%
   use_align("center")
 ```
 
-## Personality Change (06.04)
+## Personality Change (07.04)
 
 <!-- not yet updated -->
 
@@ -101,7 +101,7 @@ embed_url("https://www.youtube.com/watch?v=ZIJooF8YxHA") %>%
   use_align("center")
 ```
 
-## Narrative Identity (06.05)
+## Narrative Identity (07.05)
 
 <!-- not yet updated -->
 
@@ -110,7 +110,7 @@ embed_url("https://youtu.be/yz7nzur5EhA") %>%
   use_align("center")
 ```
 
-## Dan P. McAdams at TEDxHendrixCollege: “In the Beginning” and “Once upon a Time” (06.06)
+## Dan P. McAdams at TEDxHendrixCollege: “In the Beginning” and “Once upon a Time” (07.06)
 
 <!-- not yet updated -->
 
