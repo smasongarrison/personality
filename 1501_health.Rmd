@@ -1,4 +1,4 @@
-# (PART) Module 16 {-}
+# (PART) Module 15 {-}
 
 ```{r include = FALSE}
 source("common.R")
@@ -15,7 +15,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Mental and Physical Health
 
-This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
+This module is introduces ideas related to personality and health. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
 
 ## Learning Goals
 
@@ -64,32 +64,61 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# Lecture: What is Module?
+# Lecture: How are Personality and Health related!
 
-## Video 1
+## Roadmap to Personality and Health (15.01)
 
-<!-- not yet updated -->
+<!-- keep -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/4lLTuNyNGE4") %>%
   use_align("center")
 ```
 
 
-## Video 2
+## Defining Personality Disorders (15.02)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/mwxnepAL85E") %>%
   use_align("center")
 ```
 
-## Video 3
+## Major Personality Disorders (15.03)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/DJycHrf6EcM") %>%
   use_align("center")
 ```
+
+## Ordering the (Personality) Disorder (15.04)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/j24TQg-GM40") %>%
+  use_align("center")
+```
+
+## Personality & Physical Health (15.05)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/o9osY7R3ax0") %>%
+  use_align("center")
+```
+
+
+## The Healthy Personality (15.06)
+
+<!-- KEEP -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/GbyyiI4jtXo") %>%
+  use_align("center")
+```
+
