@@ -85,7 +85,7 @@ embed_url("https://www.youtube.com/watch?v=q4byLfNoCLw") %>%
   use_align("center")
 ```
 
-## Does personality really matter? (01.03)
+## Does personality really matter? (01.03.01)
 <!--updated -->
 
 ```{r, echo=FALSE}
@@ -96,6 +96,14 @@ embed_url("https://www.youtube.com/watch?v=RFCl_aPcPHA") %>%
 [You can read the Meta Milgram Study yourself for free!](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093927)
 
 Haslam N, Loughnan S, Perry G (2014). Meta-Milgram: An Empirical Synthesis of the Obedience Experiments. PLoS ONE 9(4): e93927. https://doi.org/10.1371/journal.pone.0093927
+
+### Milgram Experiment (01.03.02)
+
+<!-- Not mine -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/eTX42lVDwA4") %>%
+  use_align("center")
 
 ## How do we define personality? (01.04)
 
