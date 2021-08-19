@@ -1,4 +1,4 @@
-# (PART) Module 13 {-}
+# (PART) Module 5 {-}
 
 ```{r include = FALSE}
 source("common.R")
@@ -13,7 +13,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 ```{r links, child="links.md"}
 ```
 
-# Welcome to Personality Judgment and the Self
+# Welcome to Personality Judgment
 
 This module is about personality judgment and the self. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
 
@@ -33,10 +33,10 @@ By the end of this module, you should be able to achieve all the learning goals 
 * Understand the circumstances around high and low accuracy of self-knowledge.
 * Describe the ways in which one can improve self-knowledge.
 	
-### Chapter 15:
+<!-- ### Chapter 15:
 * Understand the distinction between the I and the me and the function of each.
 * Be able to identify the types of self-knowledge (e.g., self-schema, self-esteem, and self-efficacy) that are associated with the declarative self and know how they are measured and what their implications are.
-* Understand the inner workings of memory and how it is related to the establishment of one’s self-concept.
+* Understand the inner workings of memory and how it is related to the establishment of one's self-concept.
 * Be able to explain how one can have “possible selves,” the discrepancy between different “selves,” and the controversy around this idea.
 * Understand the central tenets of the procedural knowledge and declarative knowledge and how they are distinct from one an-other.
 * Distinguish between relational selves and implicit selves.
@@ -44,12 +44,13 @@ By the end of this module, you should be able to achieve all the learning goals 
 * Understand the ideas behind a working self-concept and how it relates to declarative and procedural knowledge.
 * Understand the concept of self-esteem and how it relates to the self.
 * Understand how procedural knowledge can be assessed.
+-->
 
 ## Module Materials
 
 ### Explore
 * Readings
-	* Chapter 5 and 15 from the Personality Puzzle
+	* Chapter 5 from the Personality Puzzle
 	* Located on Canvas
 * Videos
   * Located in the subchapters of this module
@@ -74,7 +75,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 # Lecture: What is Module?
 
-## Personality Judgment (13.01)
+## Personality Judgment (5.01)
 
 <!-- not yet updated -->
 
@@ -84,20 +85,11 @@ embed_url("https://www.youtube.com/watch?v=uNRIZBF2gLI") %>%
 ```
 
 
-## Moderators of Accuracy (13.02)
+## Moderators of Accuracy (5.02)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=9aSKEVYUEaU") %>%
-  use_align("center")
-```
-
-## The Self (13.03)
-
-<!-- not yet updated -->
-
-```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
   use_align("center")
 ```
