@@ -1,4 +1,4 @@
-# (PART) Module 13 {-}
+# (PART) Module 14 {-}
 
 ```{r include = FALSE}
 source("common.R")
@@ -13,14 +13,15 @@ class_urls <- read.csv("./data/class_urls.csv")
 ```{r links, child="links.md"}
 ```
 
-# Welcome to Positive Psychology and the Science of Happiness
+# Welcome to Personality Processes, Positive Psychology, and the Science of Happiness
 
-This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
+This module is designed to understand personality processess as well as positive psychology. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
 
 ## Learning Goals
 
 By the end of this module, you should be able to achieve all the learning goals outlined below.
 
+### Positive Psychology
 * 	Be able to identify and explain the central ideas associated with humanistic psychology and phenomenology in general.
 * 	Identify the various phenomenology and humanism philosophers and understand how their ideas contribute to our understanding of the human experience.
 * 	Understand the central tenets of existentialism and identify the different perspectives from its various philosophers.
@@ -34,6 +35,18 @@ By the end of this module, you should be able to achieve all the learning goals 
 * 	Understand the basic tenets of positive psychology and how they relate to that of humanistic psychology.
 * 	Understand happiness and identify what contributes to one's level of happiness.
 
+### Personality Processes
+* 	Identify the basic personality processes and how they act as the mechanisms of personality psychology in general.
+* 	Know the underlying cognitive processes behind perception (i.e. priming) and how they inform individual differences.
+* 	Differentiate between rejection sensitivity, aggression, and perceptual defense in their behavioral outcomes and relations to personality.
+* 	Distinguish between two types of thinking (reflexive vs. impulsive and rational vs. experiential), know the underlying components of each, and understand how each is related to an individual’s personality.
+* 	Distinguish between conscious thought and unconscious thought in their capabilities and limitations.
+* 	Know the different types of goals and how each acts as a motivating force in an individual’s life.
+* 	Know the different strategies individuals use to accomplish their goals and how these strategies relate to their personality, situations, and behavior.
+* 	Understand what contributes to one’s emotional experience and the individual differences that underlie these experiences.
+* 	Distinguish between the different types of emotions in their consequences, contributing factors, and behavioral outcomes.
+* 	Know the historical underpinnings behind the various personality processes.
+* 	Identify and describe the different ways to conceptualize goals and personal change and the ways in which these conceptualizations, including the nature of the goals themselves, change over time.
 
 
 
@@ -64,32 +77,90 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# Lecture: What is Module?
+# Lecture: Processes and Positives!
 
-## Video 1
-
-<!-- not yet updated -->
-
-```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
-  use_align("center")
-```
-
-
-## Video 2
+## Introducing Personality Processes and Positive Psychology (14.01)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/d71LYIGtFbk") %>%
   use_align("center")
 ```
 
-## Video 3
+
+## The Historical Roots of Personality Processes (14.02)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/vE_AjnSMjZU") %>%
   use_align("center")
 ```
+
+## Processes of Perception (14.03)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/AHESbZ9HCrw") %>%
+  use_align("center")
+```
+
+## Processes of Thought and Consciousness (14.04)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/PjAQ1WWnr_0") %>%
+  use_align("center")
+```
+
+## Ways of Thinking (14.05)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/3xpGtURdlaQ") %>%
+  use_align("center")
+```
+
+## Motivation & Goals (14.06)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/gH6DdttMTPw") %>%
+  use_align("center")
+```
+
+## Motivation Strategies (14.07)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://www.youtube.com/watch?v=NVAk6DeYMmA") %>%
+  use_align("center")
+```
+
+## Emotion (14.08)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/mgid-8XtZDE") %>%
+  use_align("center")
+```
+
+
+## Happiness and Positive Psychology (14.09)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/7hWKaXT_4Vg") %>%
+  use_align("center")
+```
+
+
+
