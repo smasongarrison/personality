@@ -37,7 +37,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 * Readings
 	* Located on Canvas
 	* Parts of Chapter 9 from the Personality Puzzle
-	* Selections from T
+
 * Videos
   * Located in the subchapters of this module
 * Slidedecks
@@ -59,32 +59,42 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# Lecture: What is Module?
+# Lecture: What is Behavior Genetics?
 
-## Video 1
+## Introduction to Behavior Genetics (09.01)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/c0_BuepEyCA) %>%
   use_align("center")
 ```
 
 
-## Video 2
+## What is Heritability? (09.02)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/OdsFPCfAbaA") %>%
   use_align("center")
 ```
 
-## Video 3
+## What Heritability Tells You (09.03)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/sLbYHRb9FUc") %>%
+  use_align("center")
+```
+
+	
+## Molecular Genetics and Interactions with the Environment (09.04)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/EZ9fpNlwXNs") %>%
   use_align("center")
 ```
