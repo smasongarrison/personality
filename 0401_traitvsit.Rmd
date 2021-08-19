@@ -13,7 +13,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 ```{r links, child="links.md"}
 ```
 
-# Welcome to Persons and Situations
+# Welcome to Traits, Situations, & Behavior
 
 This module is introduces the trait approach within the context of the person versus situation debate. 
 Please watch the videos and work your way through the notes. 
