@@ -48,7 +48,7 @@ Optional materials ARE explicitly marked as optional and are located in the "Ext
 	
 ### Engage
 * Activities
-	* What's my Personality Activity
+	  * Located on Canvas
 
 ### Evaluate
 * Quiz
@@ -113,7 +113,7 @@ embed_url("https://www.youtube.com/watch?v=1TSq1LaAIdA") %>%
   use_align("center")
 ```
 
-# Activity: What's My Personality?  {#whatisactivity}
+# Extra: What's My Personality?  {#whatisactivity}
 
 This sequence of activities expands upon what I've introduced in the videos. Check them out!
 
