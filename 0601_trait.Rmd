@@ -1,4 +1,4 @@
-# (PART) Module 05 {-}
+# (PART) Module 06 {-}
 
 ```{r include = FALSE}
 source("common.R")
@@ -62,7 +62,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 # Lecture: What is Trait Theory?
 
-## Personality Traits Roadmap (05.01)
+## Personality Traits Roadmap (06.01)
 
 <!-- not yet updated -->
 
@@ -72,7 +72,7 @@ embed_url("https://www.youtube.com/watch?v=ukxPyA223cc") %>%
 ```
 
 
-## The Single- and Multi-Trait Approaches (05.02)
+## The Single- and Multi-Trait Approaches (06.02)
 
 <!-- not yet updated -->
 
@@ -81,7 +81,7 @@ embed_url("https://www.youtube.com/watch?v=2xBoyrhBh3I") %>%
   use_align("center")
 ```
 
-## The Psychology of Narcissim (05.02b)
+## The Psychology of Narcissim (06.02b)
 
 <!-- updated -->
 
@@ -91,7 +91,7 @@ embed_url("https://www.youtube.com/watch?v=arJLy3hX1E8") %>%
 ```
 
 
-## The Essential Trait Approach (05.03)
+## The Essential Trait Approach (06.03)
 
 <!-- not yet updated -->
 
@@ -100,7 +100,7 @@ embed_url("https://www.youtube.com/watch?v=bdERzNy0XAA") %>%
   use_align("center")
 ```
 
-## Big 5 Factors (05.04)
+## Big 5 Factors (06.04)
 
 <!-- not yet updated -->
 
@@ -109,7 +109,7 @@ embed_url("https://www.youtube.com/watch?v=YyNHU5DP1Fk") %>%
   use_align("center")
 ```
 
-## Personality Types (05.05)
+## Personality Types (06.05)
 
 <!-- not yet updated -->
 
