@@ -1,4 +1,4 @@
-# (PART) Module 12 {-}
+# (PART) Module 13 {-}
 
 ```{r include = FALSE}
 source("common.R")
@@ -15,7 +15,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Psychoanalysis After Freud
 
-This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
+This module covers modern aspects of Psychoanalysis After Freud Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
 
 ## Learning Goals
 
@@ -61,32 +61,41 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# Lecture: What is Module?
+# Lecture: Psychoanalysis After Freud
 
-## Video 1
+## Psychology and Modern Psychoanalysis (13.01)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/1kgz8FWuRfg") %>%
   use_align("center")
 ```
 
 
-## Video 2
+## Inferiority & Compensation + Feminine Psychology (13.02)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/ExCAR6v9kBo") %>%
   use_align("center")
 ```
 
-## Video 3
+## The Collective Unconscious, Persona, and Personality (13.03)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/FJdQ50XBDqc") %>%
+  use_align("center")
+```
+
+## Psychosocial Development (13.04)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/UtC2MNk9yZc") %>%
   use_align("center")
 ```
