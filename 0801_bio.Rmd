@@ -1,4 +1,4 @@
-# (PART) Module 07 {-}
+# (PART) Module 08 {-}
 
 ```{r include = FALSE}
 source("common.R")
@@ -15,7 +15,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Anatomy and Physiology of Personality
 
-This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
+This module is covers Anatomy and Physiology of Personality. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
 
 ## Learning Goals
 
@@ -64,7 +64,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 # Lecture: Biopsych and personality
 
-## Brains! (07.01)
+## Brains! (08.01)
 
 
 <!-- not yet updated -->
@@ -75,7 +75,7 @@ embed_url("https://youtu.be/Azpleyog8m8") %>%
 ```
 
 
-## Brain-Based Research Methods (07.02)
+## Brain-Based Research Methods (08.02)
 
 
 <!-- not yet updated -->
@@ -85,7 +85,7 @@ embed_url("https://youtu.be/MiX8-f-6hjE") %>%
   use_align("center")
 ```
 
-## Brain Parts (07.03)
+## Brain Parts (08.03)
 
 <!-- not yet updated -->
 
@@ -94,7 +94,7 @@ embed_url("https://youtu.be/gBymtP_A-cg") %>%
   use_align("center")
 ```
 
-## The Frontal Lobe, Phineas Gage, and Psychosurgery (07.04)
+## The Frontal Lobe, Phineas Gage, and Psychosurgery (08.04)
 
 <!-- not yet updated -->
 
@@ -104,7 +104,7 @@ embed_url("https://youtu.be/xp-scBPhFMo") %>%
 ```
 
 
-## The Biochemistry of Personality (07.05)
+## The Biochemistry of Personality (08.05)
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
@@ -112,7 +112,7 @@ embed_url("https://youtu.be/95CLJbFG58Q") %>%
   use_align("center")
 ```
 
-## Hormones! (07.06)
+## Hormones! (08.06)
 
 <!-- not yet updated -->
 
