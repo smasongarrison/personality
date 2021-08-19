@@ -99,3 +99,44 @@ embed_url("https://youtu.be/FJdQ50XBDqc") %>%
 embed_url("https://youtu.be/UtC2MNk9yZc") %>%
   use_align("center")
 ```
+
+
+## Current Psychoanalytic Research (13.05)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/pBV2Mhmd36s") %>%
+  use_align("center")
+```
+
+
+### Discussion of Animal Attachment Research (13.05B)
+
+<!-- not mine -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/1zyNbdDgUb8") %>%
+  use_align("center")
+```
+
+
+### Illustration of the attachment study paradigm (13.05C)
+
+<!--not mine -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/CuIYD-zTEDc") %>%
+  use_align("center")
+```
+
+## Psychoanalysis in Perspective (13.06)
+
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/z2WMGFrkjk4") %>%
+  use_align("center")
+```
+
