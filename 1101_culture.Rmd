@@ -1,4 +1,4 @@
-# (PART) Module 14 {-}
+# (PART) Module 11 {-}
 
 ```{r include = FALSE}
 source("common.R")
@@ -15,7 +15,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Cultural Variation in Experience, Behavior, and Personality
 
-This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
+This module is introduces cross-cultural psych. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
 
 ## Learning Goals
 
@@ -62,32 +62,50 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# Lecture: What is Module?
+# Lecture: What is Cross-Cultural Psychology?
 
-## Video 1
+## Introduction Cross-Cultural Psychology (11.01)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/5LfJHgMi4Y0") %>%
   use_align("center")
 ```
 
 
-## Video 2
+## Characteristics of Cultures (11.02)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/SlYG0ZlRP2w") %>%
   use_align("center")
 ```
 
-## Video 3
+## Assessment of Culture and Personality (11.03)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/IwJI-tTI64s") %>%
+  use_align("center")
+```
+
+## The Origins of Cultural Differences (11.04)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/uHPfUeuxM7g") %>%
+  use_align("center")
+```
+
+## Challenges and New Directions for Cross-Cultural Research (11.05)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/NfbhWqq0LCE") %>%
   use_align("center")
 ```
