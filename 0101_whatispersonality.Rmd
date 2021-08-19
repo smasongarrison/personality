@@ -69,6 +69,7 @@ It is approximately 45 minutes in length using this [neat webapp][ytplaylist]. S
 * Total length of playlist : 43 minutes, 18 seconds.
 
 ## What is Personality? (01.01)
+
 <!-- original version -->
 
 ```{r, echo=FALSE}
@@ -104,10 +105,12 @@ Haslam N, Loughnan S, Perry G (2014). Meta-Milgram: An Empirical Synthesis of th
 ```{r, echo=FALSE}
 embed_url("https://youtu.be/eTX42lVDwA4") %>%
   use_align("center")
+```
 
 ## How do we define personality? (01.04)
 
 <!-- updated -->
+
 ```{r, echo=FALSE}
 embed_url("https://www.youtube.com/watch?v=olYigoNfBto") %>%
   use_align("center")

@@ -66,8 +66,10 @@ By the end of this module, you should be able to achieve all the learning goals 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/c0_BuepEyCA) %>%
+
+embed_url("https://youtu.be/c0_BuepEyCA") %>%
   use_align("center")
+  
 ```
 
 
@@ -76,8 +78,10 @@ embed_url("https://youtu.be/c0_BuepEyCA) %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
+
 embed_url("https://youtu.be/OdsFPCfAbaA") %>%
   use_align("center")
+
 ```
 
 ## What Heritability Tells You (09.03)
