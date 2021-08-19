@@ -1,4 +1,4 @@
-# (PART) Module 11 {-}
+# (PART) Module 12 {-}
 
 ```{r include = FALSE}
 source("common.R")
@@ -15,7 +15,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Basics of Psychoanalysis
 
-This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
+This module covers the Basics of Psychoanalysis. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
 
 ## Learning Goals
 
@@ -65,32 +65,80 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# Lecture: What is Module?
+# Lecture: Basic Psychoanalysis
 
-## Video 1
-
-<!-- not yet updated -->
-
-```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
-  use_align("center")
-```
-
-
-## Video 2
+## Freud and the Basics of Psychoanalysis (12.01)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/-gp_G88K_go") %>%
   use_align("center")
 ```
 
-## Video 3
+
+## The Key Ideas of Psychoanalysis (12.02)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/GWiEKmOHJ0c") %>%
   use_align("center")
 ```
+
+## Psychoanalysis, Life, and Death (12.03)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/oIJ696r_Auk") %>%
+  use_align("center")
+```
+
+## Psychosexual Development (12.04)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/bB9JK5AjNN8") %>%
+  use_align("center")
+```
+
+
+## Thinking and Consciousness (12.05)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/G3FTM4c9pl0") %>%
+  use_align("center")
+```
+
+## Anxiety and Defense (12.06)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/HXnjBII-re8") %>%
+  use_align("center")
+```
+
+## Psychoanalysis as Therapy and Theory (12.07)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/N0wMjbp6eVk") %>%
+  use_align("center")
+```
+
+
+## Why Study Freud? (12.08)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/XZpwxeBQXxg") %>%
+  use_align("center")
+```
+
