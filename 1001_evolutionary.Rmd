@@ -15,12 +15,11 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Evolutionary Psychology
 
-This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
+This module is introduces Evolutionary Psychology. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
 
 ## Learning Goals
 
 By the end of this module, you should be able to achieve all the learning goals outlined below.
-
 
 * Identify the five stress tests (and other criticisms) and their defenses.
 * Know the theoretical and historical basis for evolutionary psychological theory and how it adds to our understanding of people beyond biological sciences.
@@ -59,35 +58,69 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# Lecture: What is Module?
+# Lecture: What is Evolutionary Psychology?
 
-## Video 1
+## Introduction to Evolutionary Psychology (10.01)
 
-<!-- not yet updated -->
+<!-- keep -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/v6DRO1z0XTY") %>%
   use_align("center")
 ```
 
 
-## Video 2
+### What is Evolution? (10.01B)
+
+<!-- keep not mine-->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/GhHOjC4oxh8") %>%
+  use_align("center")
+```
+
+### What is Natural Selection? (10.01C)
+
+<!-- keep not mine-->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/7VM9YxmULuo") %>%
+  use_align("center")
+```
+
+
+
+
+## Evolutionary Personality Psychology (10.02)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/r0NLwkDESxI") %>%
   use_align("center")
 ```
 
-## Video 3
+## Individual Differences in Evolutionary Psychology (10.03)
 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=4CRRdWGGatQ") %>%
+embed_url("https://youtu.be/K3sNg5YbcJA") %>%
   use_align("center")
 ```
+
+
+## Criticisms of Evolutionary Psychology (10.04)
+
+<!-- not yet updated -->
+
+```{r, echo=FALSE}
+embed_url("https://youtu.be/sm078LdO-CU") %>%
+  use_align("center")
+```
+
+
+# Evolutionary Psych Extras
 
 ```{r, echo=FALSE}
 include_tweet("https://twitter.com/AdamRutherford/status/1406575489943326721")
