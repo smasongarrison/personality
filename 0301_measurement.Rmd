@@ -132,13 +132,13 @@ embed_url("https://youtu.be/T98LVErpNmI") %>%
   use_align("center")
 ```
 
-## Evaluate (03.07)
+## Effect Size (03.07)
 
 
-<!-- not updated -->
+<!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=c7lz4FPKHsI") %>%
+embed_url("https://youtu.be/z3BJ-MrITeQ") %>%
   use_align("center")
 ```
 
