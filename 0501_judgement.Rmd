@@ -73,7 +73,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 
-# Lecture: What is Module?
+# Lecture: What is Judgment?
 
 ## Personality Judgment (5.01)
 
