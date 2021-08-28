@@ -8,4 +8,4 @@ source("common.R")
 ```
 
 <!-- To Do: find a way to embed a pdf in rmarkdown -->
-You can find the syllabus on my [syllabus website](https://smasongarrison.github.io/syllabi/) and the entire [syllabus git repo](https://github.com/smasongarrison/syllabi)
+You can find the syllabus on my [syllabus website](https://smasongarrison.github.io/syllabi/personality.html) and the entire [syllabus git repo](https://github.com/smasongarrison/syllabi)
