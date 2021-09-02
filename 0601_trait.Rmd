@@ -117,3 +117,6 @@ embed_url("https://www.youtube.com/watch?v=YyNHU5DP1Fk") %>%
 embed_url("https://www.youtube.com/watch?v=zzSdhlfbupc") %>%
   use_align("center")
 ```
+```{r, echo=FALSE}
+include_tweet("https://twitter.com/LarsUJohnson/status/1433227495474700295")
+```
