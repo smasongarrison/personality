@@ -59,18 +59,21 @@ By the end of this module, you should be able to achieve all the learning goals 
 	* Located on Canvas
 
 ### Extras
-	* [My Psychological Testing Course](https://r-computing-lab.github.io/psychtesting/index.html)
+
+* [My Psychological Testing Course](https://r-computing-lab.github.io/psychtesting/index.html)
 
 
 # Lecture: Personality Assessment {#assessmentvideo}
 
 This sequence of videos introduces personality assessment. It is approximately 2.25 hours in length using this [neat webapp][ytplaylist]. Specifically,
 
-* No of videos : 5
+* No of videos : 9
 
-* Average length of video : 26 minutes, 53 seconds
+* Average length of video : 12 minutes, 17 seconds
 
-* Total length of playlist : 2 hours, 14 minutes, 26 seconds
+* Total length of playlist : 1 hour, 50 minutes, 34 seconds
+
+
 
 ## Roadmap for personality assessment (03.01)
 
