@@ -132,6 +132,10 @@ embed_url("https://youtu.be/T98LVErpNmI") %>%
   use_align("center")
 ```
 
+```{r, echo=FALSE}
+include_tweet("https://twitter.com/MaartenvSmeden/status/1434619122189545472")
+```
+
 ## Effect Size (03.07)
 
 
@@ -154,10 +158,10 @@ embed_url("https://youtu.be/PVVNL5Zs1tc") %>%
   use_align("center")
 ```
 
-## Ethics (03.09)
-<!-- not yet updated -->
+## More problems (03.09)
+<!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=S-UUDAjOMp4") %>%
+embed_url("https://youtu.be/JouO7-iLVpc") %>%
   use_align("center")
 ```
