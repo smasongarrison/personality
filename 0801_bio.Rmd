@@ -104,6 +104,11 @@ embed_url("https://youtu.be/xp-scBPhFMo") %>%
 ```
 
 
+```{r, echo=FALSE}
+include_tweet("https://twitter.com/JoshuaGrubbsPhD/status/1444813677815795717?s=20")
+```
+
+
 ## The Biochemistry of Personality (08.05)
 <!-- not yet updated -->
 
