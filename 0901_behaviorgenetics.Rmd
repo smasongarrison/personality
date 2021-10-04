@@ -15,7 +15,7 @@ class_urls <- read.csv("./data/class_urls.csv")
 
 # Welcome to Behavior Genetics
 
-This module is designed to <TOPIC>. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
+This module is will introduce you to behavior genetics. Please watch the videos and work your way through the notes. **The videos start on the next page.**  You can find the module playlist [here](https://www.youtube.com/playlist?list=PLKrrdtYgOUYZ2BXy4ypzoPdA39mszdnlc). 
 
 ## Learning Goals
 
