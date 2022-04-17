@@ -80,7 +80,8 @@ This sequence of videos introduces personality assessment. It is approximately 2
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/ym35piQGiGg") %>%
+"https://youtu.be/ym35piQGiGg" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -89,7 +90,8 @@ embed_url("https://youtu.be/ym35piQGiGg") %>%
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/Po4UBLMjkwE") %>%
+"https://youtu.be/Po4UBLMjkwE" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -99,7 +101,8 @@ embed_url("https://youtu.be/Po4UBLMjkwE") %>%
 <!--updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/c79D9ye6u0I") %>%
+"https://youtu.be/c79D9ye6u0I" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -110,7 +113,8 @@ embed_url("https://youtu.be/c79D9ye6u0I") %>%
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/kgTPg8QasEE") %>%
+"https://youtu.be/kgTPg8QasEE" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -121,7 +125,8 @@ embed_url("https://youtu.be/kgTPg8QasEE") %>%
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/fGpNbi63eBM") %>%
+"https://youtu.be/fGpNbi63eBM" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -131,7 +136,8 @@ embed_url("https://youtu.be/fGpNbi63eBM") %>%
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/T98LVErpNmI") %>%
+"https://youtu.be/T98LVErpNmI" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -145,7 +151,8 @@ include_tweet("https://twitter.com/MaartenvSmeden/status/1434619122189545472")
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/z3BJ-MrITeQ") %>%
+"https://youtu.be/z3BJ-MrITeQ" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -157,7 +164,8 @@ embed_url("https://youtu.be/z3BJ-MrITeQ") %>%
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/PVVNL5Zs1tc") %>%
+"https://youtu.be/PVVNL5Zs1tc" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -165,6 +173,7 @@ embed_url("https://youtu.be/PVVNL5Zs1tc") %>%
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/JouO7-iLVpc") %>%
+"https://youtu.be/JouO7-iLVpc" %>%
+ embed_url() %>%
   use_align("center")
 ```

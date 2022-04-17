@@ -38,7 +38,8 @@ library(readr)
 Welcome to class! This website is designed to accompany Mason Garrison's Introduction to Personality Psychology. This class is a undergraduate-level psychology course at Wake Forest University. I encourage anyone who is personality-curious to work their way through these course notes. The course notes include lectures, worked examples, readings, activities, and labs. You can find the current version of the course syllabus along with all of the other syllabi for my classes [here]( https://github.com/smasongarrison/Syllabi). All the embedded lecture videos can be found on a [youtube playlist][pl-all]. 
 
 ```{r,echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=ESGnk90FHr4") %>%
+"https://www.youtube.com/watch?v=ESGnk90FHr4" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -77,7 +78,8 @@ In terms of timing, I will have each module completed by the start of the week. 
 ```{r,echo=FALSE}
 # Gromit Placing Rail Tracks for 10 Hours
 
-embed_url("https://www.youtube.com/watch?v=fwJHNw9jU_U") %>%
+"https://www.youtube.com/watch?v=fwJHNw9jU_U" %>%
+ embed_url() %>%
   use_align("center")
 ```
 

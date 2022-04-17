@@ -72,7 +72,8 @@ By the end of this module, you should be able to achieve all the learning goals 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/-gp_G88K_go") %>%
+"https://youtu.be/-gp_G88K_go" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -82,7 +83,8 @@ embed_url("https://youtu.be/-gp_G88K_go") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/GWiEKmOHJ0c") %>%
+"https://youtu.be/GWiEKmOHJ0c" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -91,7 +93,8 @@ embed_url("https://youtu.be/GWiEKmOHJ0c") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/oIJ696r_Auk") %>%
+"https://youtu.be/oIJ696r_Auk" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -100,7 +103,8 @@ embed_url("https://youtu.be/oIJ696r_Auk") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/bB9JK5AjNN8") %>%
+"https://youtu.be/bB9JK5AjNN8" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -110,7 +114,8 @@ embed_url("https://youtu.be/bB9JK5AjNN8") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/G3FTM4c9pl0") %>%
+"https://youtu.be/G3FTM4c9pl0" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -119,7 +124,8 @@ embed_url("https://youtu.be/G3FTM4c9pl0") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/HXnjBII-re8") %>%
+"https://youtu.be/HXnjBII-re8" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -128,7 +134,8 @@ embed_url("https://youtu.be/HXnjBII-re8") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/N0wMjbp6eVk") %>%
+"https://youtu.be/N0wMjbp6eVk" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -138,7 +145,8 @@ embed_url("https://youtu.be/N0wMjbp6eVk") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/XZpwxeBQXxg") %>%
+"https://youtu.be/XZpwxeBQXxg" %>%
+ embed_url() %>%
   use_align("center")
 ```
 

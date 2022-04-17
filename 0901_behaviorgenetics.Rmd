@@ -67,7 +67,8 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 ```{r, echo=FALSE}
 
-embed_url("https://youtu.be/c0_BuepEyCA") %>%
+"https://youtu.be/c0_BuepEyCA" %>%
+ embed_url() %>%
   use_align("center")
   
 ```
@@ -79,7 +80,8 @@ embed_url("https://youtu.be/c0_BuepEyCA") %>%
 
 ```{r, echo=FALSE}
 
-embed_url("https://youtu.be/OdsFPCfAbaA") %>%
+"https://youtu.be/OdsFPCfAbaA" %>%
+ embed_url() %>%
   use_align("center")
 
 ```
@@ -89,7 +91,8 @@ embed_url("https://youtu.be/OdsFPCfAbaA") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/sLbYHRb9FUc") %>%
+"https://youtu.be/sLbYHRb9FUc" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -103,6 +106,7 @@ include_tweet("https://twitter.com/DocEdge85/status/1437990888681078784")
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/EZ9fpNlwXNs") %>%
+"https://youtu.be/EZ9fpNlwXNs" %>%
+ embed_url() %>%
   use_align("center")
 ```

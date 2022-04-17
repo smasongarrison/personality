@@ -73,7 +73,8 @@ It is approximately 45 minutes in length using this [neat webapp][ytplaylist]. S
 <!-- original version -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=0-UuQCMHmkk") %>%
+"https://www.youtube.com/watch?v=0-UuQCMHmkk" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -82,7 +83,8 @@ embed_url("https://www.youtube.com/watch?v=0-UuQCMHmkk") %>%
 <!-- original version -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=q4byLfNoCLw") %>%
+"https://www.youtube.com/watch?v=q4byLfNoCLw" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -90,7 +92,8 @@ embed_url("https://www.youtube.com/watch?v=q4byLfNoCLw") %>%
 <!--updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=RFCl_aPcPHA") %>%
+"https://www.youtube.com/watch?v=RFCl_aPcPHA" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -103,7 +106,8 @@ Haslam N, Loughnan S, Perry G (2014). Meta-Milgram: An Empirical Synthesis of th
 <!-- Not mine -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/eTX42lVDwA4") %>%
+"https://youtu.be/eTX42lVDwA4" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -112,7 +116,8 @@ embed_url("https://youtu.be/eTX42lVDwA4") %>%
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=olYigoNfBto") %>%
+"https://www.youtube.com/watch?v=olYigoNfBto" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -120,7 +125,8 @@ embed_url("https://www.youtube.com/watch?v=olYigoNfBto") %>%
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=1TSq1LaAIdA") %>%
+"https://www.youtube.com/watch?v=1TSq1LaAIdA" %>%
+ embed_url() %>%
   use_align("center")
 ```
 

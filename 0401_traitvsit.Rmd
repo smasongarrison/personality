@@ -73,7 +73,8 @@ It is approximately 60 minutes in length using this [neat webapp][ytplaylist]. S
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=A1MPuEiphJ4") %>%
+"https://www.youtube.com/watch?v=A1MPuEiphJ4" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -82,7 +83,8 @@ embed_url("https://www.youtube.com/watch?v=A1MPuEiphJ4") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=LyuIfx2ft-w") %>%
+"https://www.youtube.com/watch?v=LyuIfx2ft-w" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -91,7 +93,8 @@ embed_url("https://www.youtube.com/watch?v=LyuIfx2ft-w") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=BGX6csdSgvE") %>%
+"https://www.youtube.com/watch?v=BGX6csdSgvE" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -100,6 +103,7 @@ embed_url("https://www.youtube.com/watch?v=BGX6csdSgvE") %>%
 <!-- keep -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=eKb-HONj-Ds") %>%
+"https://www.youtube.com/watch?v=eKb-HONj-Ds" %>%
+ embed_url() %>%
   use_align("center")
 ```

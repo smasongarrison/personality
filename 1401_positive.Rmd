@@ -84,7 +84,8 @@ By the end of this module, you should be able to achieve all the learning goals 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/d71LYIGtFbk") %>%
+"https://youtu.be/d71LYIGtFbk" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -94,7 +95,8 @@ embed_url("https://youtu.be/d71LYIGtFbk") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/vE_AjnSMjZU") %>%
+"https://youtu.be/vE_AjnSMjZU" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -103,7 +105,8 @@ embed_url("https://youtu.be/vE_AjnSMjZU") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/AHESbZ9HCrw") %>%
+"https://youtu.be/AHESbZ9HCrw" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -112,7 +115,8 @@ embed_url("https://youtu.be/AHESbZ9HCrw") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/PjAQ1WWnr_0") %>%
+"https://youtu.be/PjAQ1WWnr_0" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -121,7 +125,8 @@ embed_url("https://youtu.be/PjAQ1WWnr_0") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/3xpGtURdlaQ") %>%
+"https://youtu.be/3xpGtURdlaQ" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -130,7 +135,8 @@ embed_url("https://youtu.be/3xpGtURdlaQ") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/gH6DdttMTPw") %>%
+"https://youtu.be/gH6DdttMTPw" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -139,7 +145,8 @@ embed_url("https://youtu.be/gH6DdttMTPw") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=NVAk6DeYMmA") %>%
+"https://www.youtube.com/watch?v=NVAk6DeYMmA" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -148,7 +155,8 @@ embed_url("https://www.youtube.com/watch?v=NVAk6DeYMmA") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/mgid-8XtZDE") %>%
+"https://youtu.be/mgid-8XtZDE" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -158,7 +166,8 @@ embed_url("https://youtu.be/mgid-8XtZDE") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/7hWKaXT_4Vg") %>%
+"https://youtu.be/7hWKaXT_4Vg" %>%
+ embed_url() %>%
   use_align("center")
 ```
 

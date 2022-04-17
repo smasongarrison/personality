@@ -70,7 +70,8 @@ This sequence of videos covers personality research methods. It is approximately
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=XN1GeS7FSio") %>%
+"https://www.youtube.com/watch?v=XN1GeS7FSio" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -78,7 +79,8 @@ embed_url("https://www.youtube.com/watch?v=XN1GeS7FSio") %>%
 <!-- updated; original was two parts; this notation is here because the numbering differs across videos -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=1Bdt3v6bW2k") %>%
+"https://www.youtube.com/watch?v=1Bdt3v6bW2k" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -86,7 +88,8 @@ embed_url("https://www.youtube.com/watch?v=1Bdt3v6bW2k") %>%
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=J9bMPFLlpAc") %>%
+"https://www.youtube.com/watch?v=J9bMPFLlpAc" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -95,14 +98,16 @@ embed_url("https://www.youtube.com/watch?v=J9bMPFLlpAc") %>%
 <!-- updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=TSbMg14CqRQ") %>%
+"https://www.youtube.com/watch?v=TSbMg14CqRQ" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
 ## Data Quality (02.04)
 <!-- keep original -->
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=Py-3LjJYzKk") %>%
+"https://www.youtube.com/watch?v=Py-3LjJYzKk" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -110,7 +115,8 @@ embed_url("https://www.youtube.com/watch?v=Py-3LjJYzKk") %>%
 <!-- keep original -->
 
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/MgTZUP7Dzlk") %>%
+"https://youtu.be/MgTZUP7Dzlk" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -118,7 +124,8 @@ embed_url("https://youtu.be/MgTZUP7Dzlk") %>%
 
 <!-- updated  -->
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/xpPlRDn4WJM") %>%
+"https://youtu.be/xpPlRDn4WJM" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -126,7 +133,8 @@ embed_url("https://youtu.be/xpPlRDn4WJM") %>%
 
 <!-- updated  -->
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/lLk8iWtg22A") %>%
+"https://youtu.be/lLk8iWtg22A" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -134,7 +142,8 @@ embed_url("https://youtu.be/lLk8iWtg22A") %>%
 <!-- updated-->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=6MKSjsPfYhc") %>%
+"https://www.youtube.com/watch?v=6MKSjsPfYhc" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -142,6 +151,7 @@ embed_url("https://www.youtube.com/watch?v=6MKSjsPfYhc") %>%
 
 <!-- updated-->
 ```{r, echo=FALSE}
-embed_url("https://youtu.be/E1e5sHbcVfE") %>%
+"https://youtu.be/E1e5sHbcVfE" %>%
+ embed_url() %>%
   use_align("center")
 ```

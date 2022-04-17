@@ -80,7 +80,8 @@ By the end of this module, you should be able to achieve all the learning goals 
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=uNRIZBF2gLI") %>%
+"https://www.youtube.com/watch?v=uNRIZBF2gLI" %>%
+ embed_url() %>%
   use_align("center")
 ```
 
@@ -90,6 +91,7 @@ embed_url("https://www.youtube.com/watch?v=uNRIZBF2gLI") %>%
 <!-- not yet updated -->
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=9aSKEVYUEaU") %>%
+"https://www.youtube.com/watch?v=9aSKEVYUEaU" %>%
+ embed_url() %>%
   use_align("center")
 ```
