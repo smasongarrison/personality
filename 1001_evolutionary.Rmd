@@ -129,5 +129,5 @@ By the end of this module, you should be able to achieve all the learning goals 
 # Evolutionary Psych Extras
 
 ```{r, echo=FALSE}
-include_tweet("https://twitter.com/AdamRutherford/status/1406575489943326721")
+try(include_tweet("https://twitter.com/AdamRutherford/status/1406575489943326721"))
 ```	

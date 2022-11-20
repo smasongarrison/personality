@@ -124,5 +124,5 @@ By the end of this module, you should be able to achieve all the learning goals 
   use_align("center")
 ```
 ```{r, echo=FALSE}
-include_tweet("https://twitter.com/LarsUJohnson/status/1433227495474700295")
+try(include_tweet("https://twitter.com/LarsUJohnson/status/1433227495474700295"))
 ```

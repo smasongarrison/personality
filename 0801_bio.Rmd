@@ -109,7 +109,7 @@ By the end of this module, you should be able to achieve all the learning goals 
 
 
 ```{r, echo=FALSE}
-include_tweet("https://twitter.com/JoshuaGrubbsPhD/status/1444813677815795717?s=20")
+try(include_tweet("https://twitter.com/JoshuaGrubbsPhD/status/1444813677815795717?s=20"))
 ```
 
 

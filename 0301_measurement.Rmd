@@ -142,7 +142,7 @@ This sequence of videos introduces personality assessment. It is approximately 2
 ```
 
 ```{r, echo=FALSE}
-include_tweet("https://twitter.com/MaartenvSmeden/status/1434619122189545472")
+try(include_tweet("https://twitter.com/MaartenvSmeden/status/1434619122189545472"))
 ```
 
 ## Effect Size (03.07)
